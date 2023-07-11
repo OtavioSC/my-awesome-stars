@@ -163,6 +163,7 @@
 
 ## Others 
 
+- [osynavets/build-your-own-x-in-rust](https://github.com/osynavets/build-your-own-x-in-rust) - 
 - [noghartt/my-awesome-stars](https://github.com/noghartt/my-awesome-stars) - 
 - [rochacbruno/my-awesome-stars](https://github.com/rochacbruno/my-awesome-stars) - 
 - [paladini/awesome-poscomp](https://github.com/paladini/awesome-poscomp) - Uma coleção de incríveis recursos para as provas da POSCOMP.
