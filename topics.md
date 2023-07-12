@@ -705,6 +705,7 @@
 
 ## others 
 
+- [ocodista/trampar-de-casa](https://github.com/ocodista/trampar-de-casa) - Apoiamos o trabalho remoto e divulgamos vagas semanalmente para inscritos.
 - [osynavets/build-your-own-x-in-rust](https://github.com/osynavets/build-your-own-x-in-rust) - 
 - [noghartt/my-awesome-stars](https://github.com/noghartt/my-awesome-stars) - 
 - [rochacbruno/my-awesome-stars](https://github.com/rochacbruno/my-awesome-stars) - 
@@ -718,7 +719,7 @@
 - [reddit-archive/reddit1.0](https://github.com/reddit-archive/reddit1.0) - 
 - [HigherOrderCO/ICVM](https://github.com/HigherOrderCO/ICVM) - A programming language and model of computation that matches the optimal λ-calculus reduction algorithm perfectly.
 - [cppbrasil/material-de-aprendizado](https://github.com/cppbrasil/material-de-aprendizado) - Coleção de materiais e links para aprendizado de C e C++, em português ou inglês.
-- [daniloab/sinnples](https://github.com/daniloab/sinnples) - Sinnples, the app for your home reform service indication
+- [finntechnologies/sinnples](https://github.com/finntechnologies/sinnples) - Sinnples, the app for your home reform service indication
 - [shahedbd/awesome-project-management](https://github.com/shahedbd/awesome-project-management) - Awesome lists about Project Management interesting and useful topics.
 - [anabastos/awesome-pesquisa](https://github.com/anabastos/awesome-pesquisa) - Curated list of research content in portuguese
 - [kspalaiologos/C-Learning-Resources](https://github.com/kspalaiologos/C-Learning-Resources) - Resources for learning C that are the best in my opinion.
