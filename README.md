@@ -305,6 +305,8 @@
 
 ## Rust 
 
+- [barter-rs/barter-rs](https://github.com/barter-rs/barter-rs) - Open-source Rust framework for building event-driven live-trading & backtesting systems
+- [freenet/locutus](https://github.com/freenet/locutus) - Declare your digital independence
 - [Brendonovich/prisma-client-rust](https://github.com/Brendonovich/prisma-client-rust) - Type-safe database access for Rust
 - [facebookexperimental/reverie](https://github.com/facebookexperimental/reverie) - An ergonomic and safe syscall interception framework for Linux.
 - [theotherphil/dip](https://github.com/theotherphil/dip) - A toy incremental computation framework
