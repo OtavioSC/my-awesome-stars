@@ -391,14 +391,14 @@
 
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [cezaraugusto/You-Dont-Know-JS](https://github.com/cezaraugusto/You-Dont-Know-JS) - 📗📒 (PT-Br translation) JS Book Series.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2023)
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 
 ## eslint 
 
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2023)
 
 ## ethereum 
 
@@ -408,7 +408,7 @@
 
 - [testjavascript/nodejs-integration-tests-best-practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) - ✅  Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (April 2022)
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (June 2023)
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2023)
 
 ## finance 
 
@@ -546,7 +546,7 @@
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [tc39/proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
 - [MelonRuntime/Melon](https://github.com/MelonRuntime/Melon) - ✨ .NET-based JavaScript runtime focused in rapid prototyping of projects, using minimal dependencies and functional programming
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2023)
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
 - [helmetjs/helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
@@ -674,14 +674,14 @@
 - [testjavascript/nodejs-integration-tests-best-practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) - ✅  Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (April 2022)
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (June 2023)
 - [glaucia86/azure-sql-prisma-vue](https://github.com/glaucia86/azure-sql-prisma-vue) - A real case study how to apply Azure SQL with Prisma &  Vue
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2023)
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
 
 ## npm 
 
 - [yarnpkg/yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2023)
 
 ## open-source 
 
@@ -1022,7 +1022,7 @@
 - [jepsen-io/maelstrom](https://github.com/jepsen-io/maelstrom) - A workbench for writing toy implementations of distributed systems.
 - [testjavascript/nodejs-integration-tests-best-practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) - ✅  Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (April 2022)
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (June 2023)
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2023)
 - [scanapi/scanapi](https://github.com/scanapi/scanapi) - Automated Integration Testing and Live Documentation for your API
 
 ## twitter 
