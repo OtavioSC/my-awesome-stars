@@ -62,7 +62,7 @@
 
 ## Dockerfile 
 
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2023)
 
 ## Fennel 
 
@@ -164,6 +164,7 @@
 
 ## Others 
 
+- [forjadev/.github](https://github.com/forjadev/.github) - Forja description, listing projects, its crew and more
 - [osynavets/build-your-own-x-in-rust](https://github.com/osynavets/build-your-own-x-in-rust) - 
 - [noghartt/my-awesome-stars](https://github.com/noghartt/my-awesome-stars) - 
 - [rochacbruno/my-awesome-stars](https://github.com/rochacbruno/my-awesome-stars) - 
