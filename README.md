@@ -365,6 +365,7 @@
 
 ## TeX 
 
+- [HoTT/book](https://github.com/HoTT/book) - A textbook on informal homotopy type theory
 - [jeffrey-xiao/papers](https://github.com/jeffrey-xiao/papers) - 
 
 ## TypeScript 
