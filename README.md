@@ -76,6 +76,7 @@
 
 ## Go 
 
+- [hashicorp/go-getter](https://github.com/hashicorp/go-getter) - Package for downloading things from a string URL using a variety of protocols.
 - [egonelbre/gophers](https://github.com/egonelbre/gophers) - Free gophers
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution
 - [rwxrob/keg](https://github.com/rwxrob/keg) - 
