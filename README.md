@@ -172,6 +172,7 @@
 
 ## Others 
 
+- [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [forjadev/.github](https://github.com/forjadev/.github) - Forja description, listing projects, its crew and more
 - [osynavets/build-your-own-x-in-rust](https://github.com/osynavets/build-your-own-x-in-rust) - 
 - [noghartt/my-awesome-stars](https://github.com/noghartt/my-awesome-stars) - 
