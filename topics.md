@@ -114,6 +114,7 @@
 - [shell](#shell)
 - [software](#software)
 - [statistics](#statistics)
+- [storybook](#storybook)
 - [telegram](#telegram)
 - [terminal](#terminal)
 - [testing](#testing)
@@ -122,6 +123,7 @@
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
 - [web](#web)
+- [web-components](#web-components)
 - [webapp](#webapp)
 - [website](#website)
 - [windows](#windows)
@@ -160,6 +162,7 @@
 
 ## awesome 
 
+- [learn-anything/books](https://github.com/learn-anything/books) - Awesome Books
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [paladini/awesome-poscomp](https://github.com/paladini/awesome-poscomp) - Uma coleção de incríveis recursos para as provas da POSCOMP.
 - [felipefialho/awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians) - 🇧🇷 A collection of amazing open source projects built by brazilian developers
@@ -196,6 +199,8 @@
 
 ## awesome-list 
 
+- [learn-anything/books](https://github.com/learn-anything/books) - Awesome Books
+- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [paladini/awesome-poscomp](https://github.com/paladini/awesome-poscomp) - Uma coleção de incríveis recursos para as provas da POSCOMP.
 - [razum2um/awesome-clojure](https://github.com/razum2um/awesome-clojure) - A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff
@@ -376,6 +381,7 @@
 
 ## education 
 
+- [learn-anything/books](https://github.com/learn-anything/books) - Awesome Books
 - [tweedegolf/101-rs](https://github.com/tweedegolf/101-rs) - A Rust university course
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
@@ -577,6 +583,7 @@
 
 ## learning 
 
+- [learn-anything/books](https://github.com/learn-anything/books) - Awesome Books
 - [aeturrell/coding-for-economists](https://github.com/aeturrell/coding-for-economists) - This repository hosts the code behind the online book, Coding for Economists.
 - [soupi/haskell-study-plan](https://github.com/soupi/haskell-study-plan) - An opinionated list of resources for learning Haskell
 - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
@@ -1011,6 +1018,10 @@
 
 - [CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)
 
+## storybook 
+
+- [juntossomosmais/atomium](https://github.com/juntossomosmais/atomium) - Atomium is an internal design system for 'Juntos Somos Mais' using Web Components
+
 ## telegram 
 
 - [ti-no-canada/imigracao-para-o-canada](https://github.com/ti-no-canada/imigracao-para-o-canada) - Repositorio geral do grupo no telegram TI no Canada
@@ -1039,6 +1050,7 @@
 
 ## typescript 
 
+- [juntossomosmais/atomium](https://github.com/juntossomosmais/atomium) - Atomium is an internal design system for 'Juntos Somos Mais' using Web Components
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
 - [suica/write-you-a-typescript](https://github.com/suica/write-you-a-typescript) - 
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
@@ -1069,6 +1081,10 @@
 - [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - Research on Web Performance
 - [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+
+## web-components 
+
+- [juntossomosmais/atomium](https://github.com/juntossomosmais/atomium) - Atomium is an internal design system for 'Juntos Somos Mais' using Web Components
 
 ## webapp 
 
