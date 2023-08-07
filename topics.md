@@ -717,6 +717,7 @@
 
 ## others 
 
+- [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
 - [hashicorp/go-getter](https://github.com/hashicorp/go-getter) - Package for downloading things from a string URL using a variety of protocols.
 - [HoTT/book](https://github.com/HoTT/book) - A textbook on informal homotopy type theory
 - [forjadev/.github](https://github.com/forjadev/.github) - Forja description, listing projects, its crew and more
