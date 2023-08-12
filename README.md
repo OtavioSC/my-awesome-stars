@@ -173,6 +173,7 @@
 
 ## Others 
 
+- [tk-notes/awesome-personal-websites](https://github.com/tk-notes/awesome-personal-websites) - It's my attempt to store all personal website I find interesting
 - [learn-anything/books](https://github.com/learn-anything/books) - Awesome Books
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
