@@ -525,6 +525,7 @@
 
 ## hacktoberfest 
 
+- [JoshuaKGoldberg/create-typescript-app](https://github.com/JoshuaKGoldberg/create-typescript-app) - A quickstart-friendly TypeScript template with comprehensive formatting, linting, releases, testing, and other great tooling built-in. ✨
 - [razum2um/awesome-clojure](https://github.com/razum2um/awesome-clojure) - A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [react-brasil/empresas-que-usam-react-no-brasil](https://github.com/react-brasil/empresas-que-usam-react-no-brasil) - Repositório que mostra empresas e projetos que utilizam React no Brasil
