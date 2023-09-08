@@ -775,6 +775,7 @@
 
 ## others 
 
+- [gboduljak/stanford-compilers-coursework](https://github.com/gboduljak/stanford-compilers-coursework) - This is a repository of coursework project for the Stanford Compilers MOOC course. The result is a fully-working compiler for the COOL Programming Language.
 - [Robert-van-Engelen/tinylisp](https://github.com/Robert-van-Engelen/tinylisp) - Lisp in 99 lines of C and how to write one yourself. Includes 20 Lisp primitives, garbage collection and REPL. Includes tail-call optimized versions for speed and reduced memory use.
 - [IUCompilerCourse/Essentials-of-Compilation](https://github.com/IUCompilerCourse/Essentials-of-Compilation) - A book about compiling Racket and Python to x86-64 assembly
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
