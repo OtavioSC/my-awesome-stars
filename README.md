@@ -12,6 +12,7 @@
 - [CSS](#css)
 - [Clojure](#clojure)
 - [Common Lisp](#common-lisp)
+- [Coq](#coq)
 - [Dockerfile](#dockerfile)
 - [Fennel](#fennel)
 - [Gleam](#gleam)
@@ -45,6 +46,7 @@
 
 ## C 
 
+- [endrazine/wcc](https://github.com/endrazine/wcc) - The Witchcraft Compiler Collection
 - [Robert-van-Engelen/tinylisp](https://github.com/Robert-van-Engelen/tinylisp) - Lisp in 99 lines of C and how to write one yourself. Includes 20 Lisp primitives, garbage collection and REPL. Includes tail-call optimized versions for speed and reduced memory use.
 
 ## C# # 
@@ -71,6 +73,10 @@
 ## Common Lisp 
 
 - [reddit-archive/reddit1.0](https://github.com/reddit-archive/reddit1.0) - 
+
+## Coq 
+
+- [UniMath/Schools](https://github.com/UniMath/Schools) - 
 
 ## Dockerfile 
 
@@ -115,6 +121,7 @@
 
 ## JavaScript 
 
+- [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [stedolan/counterexamples](https://github.com/stedolan/counterexamples) - Counterexamples in Type Systems
 - [yarnpkg/yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
