@@ -14,6 +14,7 @@
 - [Common Lisp](#common-lisp)
 - [Coq](#coq)
 - [Dockerfile](#dockerfile)
+- [Elixir](#elixir)
 - [Fennel](#fennel)
 - [Gleam](#gleam)
 - [Go](#go)
@@ -81,6 +82,10 @@
 ## Dockerfile 
 
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2023)
+
+## Elixir 
+
+- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
 
 ## Fennel 
 
