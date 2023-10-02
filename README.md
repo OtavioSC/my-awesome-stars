@@ -202,6 +202,7 @@
 
 ## Others 
 
+- [Universidade-Livre/Learn4Elixir](https://github.com/Universidade-Livre/Learn4Elixir) - Aprenda Elixir em 4 Pull Requests!
 - [neohaskell/NeoHaskell](https://github.com/neohaskell/NeoHaskell) - ⏩ NeoHaskell is a dialect of Haskell that is focused on newcomer-friendliness and productivity.
 - [tastejs/awesome-app-ideas](https://github.com/tastejs/awesome-app-ideas) - List of awesome app ideas
 - [melanierichards/just-build-websites](https://github.com/melanierichards/just-build-websites) - Some ideas for websites you can build!
@@ -429,7 +430,7 @@
 
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
 - [diego3g/umbriel](https://github.com/diego3g/umbriel) - ✉️ Umbriel is a simple mailing platform built with Node.js, TypeScript & Prisma.
-- [JoshuaKGoldberg/create-typescript-app](https://github.com/JoshuaKGoldberg/create-typescript-app) - Quickstart-friendly TypeScript template with comprehensive formatting, linting, releases, testing, and other great tooling built-in. ✨
+- [JoshuaKGoldberg/create-typescript-app](https://github.com/JoshuaKGoldberg/create-typescript-app) - Quickstart-friendly TypeScript template with comprehensive, configurable, opinionated tooling. 💝
 - [labs42io/clean-code-typescript](https://github.com/labs42io/clean-code-typescript) - Clean Code concepts adapted for TypeScript
 - [juntossomosmais/atomium](https://github.com/juntossomosmais/atomium) - Atomium is an internal design system for 'Juntos Somos Mais' using Web Components
 - [ocodista/trampar-de-casa](https://github.com/ocodista/trampar-de-casa) - Apoiamos o trabalho remoto e divulgamos vagas semanalmente para inscritos.
