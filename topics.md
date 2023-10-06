@@ -292,7 +292,7 @@
 
 ## c 
 
-- [aappleby/Matcheroni](https://github.com/aappleby/Matcheroni) - A minimalist single-header library for building pattern-matchers, lexers, and parsers.
+- [aappleby/matcheroni](https://github.com/aappleby/matcheroni) - A minimalist single-header library for building pattern-matchers, lexers, and parsers.
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [felipenlunkes/osdevbr](https://github.com/felipenlunkes/osdevbr) - Tutoriais e referências para o desenvolvimento de um sistema operacional (português)
 
@@ -549,6 +549,7 @@
 - [dereknguyen269/programing-best-practices](https://github.com/dereknguyen269/programing-best-practices) - A curated list of awesome Programming Best Practices
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [polybar/polybar-scripts](https://github.com/polybar/polybar-scripts) - This is a community project. We write and collect scripts for polybar!
+- [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [WoMakersCode/challenges-algorithms](https://github.com/WoMakersCode/challenges-algorithms) - Repositório referente à desafios sobre algoritmos da womakerscode
 - [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤.
 - [devpt-org/discord-bot](https://github.com/devpt-org/discord-bot) - Uma experiência colaborativa construindo um  BotDiscord devPT utilizando Hexagonal Arch
@@ -932,7 +933,7 @@
 ## parsing 
 
 - [zesterer/chumsky](https://github.com/zesterer/chumsky) - Write expressive, high-performance parsers with ease.
-- [aappleby/Matcheroni](https://github.com/aappleby/Matcheroni) - A minimalist single-header library for building pattern-matchers, lexers, and parsers.
+- [aappleby/matcheroni](https://github.com/aappleby/matcheroni) - A minimalist single-header library for building pattern-matchers, lexers, and parsers.
 
 ## penetration-testing 
 
