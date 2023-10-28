@@ -26,6 +26,7 @@
 - [clojure](#clojure)
 - [coding](#coding)
 - [compiler](#compiler)
+- [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
 - [cpp](#cpp)
 - [css](#css)
@@ -107,6 +108,7 @@
 - [python3](#python3)
 - [pytorch](#pytorch)
 - [qt](#qt)
+- [rails](#rails)
 - [react](#react)
 - [react-native](#react-native)
 - [reactjs](#reactjs)
@@ -326,10 +328,28 @@
 
 ## compiler 
 
+- [ehsanmok/create-your-own-lang-with-rust](https://github.com/ehsanmok/create-your-own-lang-with-rust) - Create your own programming language with Rust
 - [austral/austral](https://github.com/austral/austral) - Systems language with linear types and capability-based security.
 - [imteekay/programming-language-research](https://github.com/imteekay/programming-language-research) - Programming Language Research, Applied PLT & Compilers
 - [aalhour/awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
+
+## computer-science 
+
+- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
+- [imteekay/algorithms](https://github.com/imteekay/algorithms) - Algorithms & Data Structures & Computer Science studies
+- [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
+- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+- [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
+- [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
+- [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
+- [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
+- [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
+- [Universidade-Livre/ciencia-da-computacao](https://github.com/Universidade-Livre/ciencia-da-computacao) - 🎓 Um caminho para a educação autodidata em Ciência da Computação!
+- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
+- [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## computer-vision 
 
@@ -537,6 +557,7 @@
 
 ## hacktoberfest 
 
+- [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
 - [Universidade-Livre/Learn4Elixir](https://github.com/Universidade-Livre/Learn4Elixir) - Aprenda Elixir em 4 Pull Requests!
 - [camilatigre/listamaravilhosaopensource](https://github.com/camilatigre/listamaravilhosaopensource) - Lista com links de projetos open-source para os níveis: iniciante, intermediário e avançado. Dividido por linguagem e idiomas!
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
@@ -817,7 +838,6 @@
 - [gboduljak/stanford-compilers-coursework](https://github.com/gboduljak/stanford-compilers-coursework) - This is a repository of coursework project for the Stanford Compilers MOOC course. The result is a fully-working compiler for the COOL Programming Language.
 - [Robert-van-Engelen/tinylisp](https://github.com/Robert-van-Engelen/tinylisp) - Lisp in 99 lines of C and how to write one yourself. Includes 20 Lisp primitives, garbage collection and REPL. Includes tail-call optimized versions for speed and reduced memory use.
 - [IUCompilerCourse/Essentials-of-Compilation](https://github.com/IUCompilerCourse/Essentials-of-Compilation) - A book about compiling Racket and Python to x86-64 assembly
-- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [tk-notes/awesome-personal-websites](https://github.com/tk-notes/awesome-personal-websites) - It's my attempt to store all personal website I find interesting
 - [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
 - [hashicorp/go-getter](https://github.com/hashicorp/go-getter) - Package for downloading things from a string URL using a variety of protocols.
@@ -902,7 +922,6 @@
 - [ArtToledo/manga-downloader-kindle](https://github.com/ArtToledo/manga-downloader-kindle) - 
 - [PicPay/picpay-desafio-backend](https://github.com/PicPay/picpay-desafio-backend) - Desafio técnico - Backend
 - [appcumbuca/desafios](https://github.com/appcumbuca/desafios) - Desafios de contratação. Vem fazer parte do nosso time!
-- [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 - [aliyr/Nodejs-Developer-Roadmap](https://github.com/aliyr/Nodejs-Developer-Roadmap) - A Developer Roadmap to becoming a Node.js developer in 2019
 - [adolfont/brazilian-cs-research](https://github.com/adolfont/brazilian-cs-research) - Curated lists related to Brazilian Computer Science research and researchers
 - [thelinmichael/spotify-web-api-node](https://github.com/thelinmichael/spotify-web-api-node) - A Node.js wrapper for Spotify's Web API.
@@ -922,7 +941,6 @@
 - [zhiwehu/Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises) - 100+ Python challenging programming exercises
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [lucasbado/Challenge-Chatbot](https://github.com/lucasbado/Challenge-Chatbot) - 
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## p2p 
 
@@ -1011,6 +1029,10 @@
 
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 
+## rails 
+
+- [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
+
 ## react 
 
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
@@ -1069,6 +1091,7 @@
 
 ## ruby 
 
+- [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
 
 ## rust 
