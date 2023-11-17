@@ -828,6 +828,7 @@
 
 ## others 
 
+- [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) - 
 - [toddmotto/public-apis](https://github.com/toddmotto/public-apis) - A collective list of free APIs
 - [tastejs/awesome-app-ideas](https://github.com/tastejs/awesome-app-ideas) - List of awesome app ideas
 - [melanierichards/just-build-websites](https://github.com/melanierichards/just-build-websites) - Some ideas for websites you can build!
