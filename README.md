@@ -389,7 +389,7 @@
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [HigherOrderCO/ICVM](https://github.com/HigherOrderCO/ICVM) - A programming language and model of computation that matches the optimal λ-calculus reduction algorithm perfectly.
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
+- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [tweedegolf/101-rs](https://github.com/tweedegolf/101-rs) - A Rust university course
 - [HigherOrderCO/Kind](https://github.com/HigherOrderCO/Kind) - A next-gen functional language
 - [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
