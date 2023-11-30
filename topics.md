@@ -829,6 +829,8 @@
 
 ## others 
 
+- [michaelt/martin-lof](https://github.com/michaelt/martin-lof) - papers of Per Martin Löf
+- [williamdemeo/TypeFunc](https://github.com/williamdemeo/TypeFunc) - Resources for type theory, functional programming, etc.
 - [MatheusTT/wallpapers](https://github.com/MatheusTT/wallpapers) - 
 - [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) - Showcase your skills on your Github readme or resumé with ease ✨
 - [timsayshey/cringe-clock](https://github.com/timsayshey/cringe-clock) - In your face Desktop Pomodoro App for the Wildly Distractible
@@ -1244,6 +1246,7 @@
 
 ## vim 
 
+- [sainnhe/gruvbox-material](https://github.com/sainnhe/gruvbox-material) - Gruvbox with Material Palette
 - [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim
 - [craftzdog/solarized-osaka.nvim](https://github.com/craftzdog/solarized-osaka.nvim) - 🏯 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
