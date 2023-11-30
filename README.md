@@ -209,6 +209,7 @@
 
 ## Others 
 
+- [williamdemeo/TypeFunc](https://github.com/williamdemeo/TypeFunc) - Resources for type theory, functional programming, etc.
 - [MatheusTT/wallpapers](https://github.com/MatheusTT/wallpapers) - 
 - [Universidade-Livre/Learn4Elixir](https://github.com/Universidade-Livre/Learn4Elixir) - Aprenda Elixir em 4 Pull Requests!
 - [neohaskell/NeoHaskell](https://github.com/neohaskell/NeoHaskell) - ⏩ NeoHaskell is a dialect of Haskell that is focused on newcomer-friendliness and productivity.
@@ -438,6 +439,7 @@
 
 ## TeX 
 
+- [michaelt/martin-lof](https://github.com/michaelt/martin-lof) - papers of Per Martin Löf
 - [IUCompilerCourse/Essentials-of-Compilation](https://github.com/IUCompilerCourse/Essentials-of-Compilation) - A book about compiling Racket and Python to x86-64 assembly
 - [HoTT/book](https://github.com/HoTT/book) - A textbook on informal homotopy type theory
 - [jeffrey-xiao/papers](https://github.com/jeffrey-xiao/papers) - 
@@ -487,6 +489,7 @@
 
 ## Vim Script 
 
+- [sainnhe/gruvbox-material](https://github.com/sainnhe/gruvbox-material) - Gruvbox with Material Palette
 - [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [josethz00/neovim-like-vscode](https://github.com/josethz00/neovim-like-vscode) - This is a public repo, that contains some settings and plugins that allows you to use NeoVim like Visual Studio Code.
