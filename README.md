@@ -249,7 +249,7 @@
 - [free-educa/books](https://github.com/free-educa/books) - o armazém de livros
 - [jozefg/learn-tt](https://github.com/jozefg/learn-tt) - A collection of resources for learning type theory and type theory adjacent fields.
 - [RealToughCandy/project-ideas-for-web-developers](https://github.com/RealToughCandy/project-ideas-for-web-developers) - The go-to repo for fun, cool and unique web developer projects.
-- [dereknguyen269/programing-best-practices](https://github.com/dereknguyen269/programing-best-practices) - A curated list of awesome Programming Best Practices
+- [dereknguyen269/programing-best-practices-in-2024](https://github.com/dereknguyen269/programing-best-practices-in-2024) - A curated list of awesome Programming Best Practices In 2024
 - [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders) - A framework for Engineering Managers
 - [goabstract/Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
 - [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤.
