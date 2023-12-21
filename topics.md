@@ -85,6 +85,7 @@
 - [matlab](#matlab)
 - [mobile](#mobile)
 - [mongodb](#mongodb)
+- [music](#music)
 - [neovim](#neovim)
 - [neural-network](#neural-network)
 - [nextjs](#nextjs)
@@ -629,6 +630,7 @@
 
 ## javascript 
 
+- [khaosdoctor/sound-recommender](https://github.com/khaosdoctor/sound-recommender) - Simple API to recommend songs
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [JoshuaKGoldberg/create-typescript-app](https://github.com/JoshuaKGoldberg/create-typescript-app) - Quickstart-friendly TypeScript template with comprehensive, configurable, opinionated tooling. 💝
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
@@ -762,6 +764,10 @@
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 
+## music 
+
+- [khaosdoctor/sound-recommender](https://github.com/khaosdoctor/sound-recommender) - Simple API to recommend songs
+
 ## neovim 
 
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
@@ -804,6 +810,7 @@
 
 ## nodejs 
 
+- [khaosdoctor/sound-recommender](https://github.com/khaosdoctor/sound-recommender) - Simple API to recommend songs
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
@@ -843,6 +850,8 @@
 
 ## others 
 
+- [matheusmorett2/dev-outsourcing-latam](https://github.com/matheusmorett2/dev-outsourcing-latam) - 
+- [devhatt/pet-dex-frontend](https://github.com/devhatt/pet-dex-frontend) - 
 - [michaelt/martin-lof](https://github.com/michaelt/martin-lof) - papers of Per Martin Löf
 - [williamdemeo/TypeFunc](https://github.com/williamdemeo/TypeFunc) - Resources for type theory, functional programming, etc.
 - [MatheusTT/wallpapers](https://github.com/MatheusTT/wallpapers) - 
@@ -1252,6 +1261,7 @@
 
 ## typescript 
 
+- [khaosdoctor/sound-recommender](https://github.com/khaosdoctor/sound-recommender) - Simple API to recommend songs
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
 - [diego3g/umbriel](https://github.com/diego3g/umbriel) - ✉️ Umbriel is a simple mailing platform built with Node.js, TypeScript & Prisma.
 - [JoshuaKGoldberg/create-typescript-app](https://github.com/JoshuaKGoldberg/create-typescript-app) - Quickstart-friendly TypeScript template with comprehensive, configurable, opinionated tooling. 💝
