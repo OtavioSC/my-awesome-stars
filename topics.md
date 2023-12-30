@@ -850,6 +850,7 @@
 
 ## others 
 
+- [Universidade-Livre/rinha-de-algoritmos](https://github.com/Universidade-Livre/rinha-de-algoritmos) - Na Rinha de Algoritmos você deve utilizar suas habilidades para a criação de algoritmos eficientes para resolver problemas!
 - [cherryramatisdev/regexer](https://github.com/cherryramatisdev/regexer) - Stop worrying about regex, start worrying about another language
 - [Stremio/stremio-shell](https://github.com/Stremio/stremio-shell) - 🐚 Qt5-based shell for Stremio; compile this to run the desktop app
 - [juliocesarfort/public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) - A list of public penetration test reports published by several consulting firms and academic security groups.
