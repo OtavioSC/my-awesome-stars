@@ -216,7 +216,6 @@
 
 ## Others 
 
-- [Universidade-Livre/rinha-de-algoritmos](https://github.com/Universidade-Livre/rinha-de-algoritmos) - Na Rinha de Algoritmos você deve utilizar suas habilidades para a criação de algoritmos eficientes para resolver problemas!
 - [matheusmorett2/dev-outsourcing-latam](https://github.com/matheusmorett2/dev-outsourcing-latam) - 
 - [williamdemeo/TypeFunc](https://github.com/williamdemeo/TypeFunc) - Resources for type theory, functional programming, etc.
 - [MatheusTT/wallpapers](https://github.com/MatheusTT/wallpapers) - 
@@ -386,6 +385,7 @@
 
 ## Rust 
 
+- [Universidade-Livre/rinha-de-algoritmos](https://github.com/Universidade-Livre/rinha-de-algoritmos) - Na Rinha de Algoritmos você deve utilizar suas habilidades para a criação de algoritmos eficientes para resolver problemas!
 - [cherryramatisdev/regexer](https://github.com/cherryramatisdev/regexer) - Stop worrying about regex, start worrying about another language
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
