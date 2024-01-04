@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Awk](#awk)
 - [Bicep](#bicep)
 - [C](#c)
 - [C#](#c#)
@@ -43,6 +44,10 @@
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
+
+## Awk 
+
+- [soimort/translate-shell](https://github.com/soimort/translate-shell) - :speech_balloon: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
 
 ## Bicep 
 
