@@ -385,6 +385,7 @@
 
 ## Ruby 
 
+- [marina-ferreira/99_bottles_of_oop](https://github.com/marina-ferreira/99_bottles_of_oop) - 99 Bottles of OOP by Sandi Metz
 - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
 - [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
