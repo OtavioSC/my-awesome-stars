@@ -16,6 +16,7 @@
 - [Coq](#coq)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
+- [Emacs Lisp](#emacs-lisp)
 - [Fennel](#fennel)
 - [Gleam](#gleam)
 - [Go](#go)
@@ -99,6 +100,10 @@
 - [h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:
 - [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code & data workflows with interactive Elixir notebooks
 - [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
+
+## Emacs Lisp 
+
+- [emacs-evil/evil](https://github.com/emacs-evil/evil) - The extensible vi layer for Emacs.
 
 ## Fennel 
 
