@@ -363,6 +363,7 @@
 
 ## Python 
 
+- [dunossauro/fastapi-do-zero](https://github.com/dunossauro/fastapi-do-zero) - Curso básico de FastAPI
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [toddmotto/public-apis](https://github.com/toddmotto/public-apis) - A collective list of free APIs
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
