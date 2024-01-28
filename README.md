@@ -148,6 +148,7 @@
 
 ## JavaScript 
 
+- [quavedev/code-challenge](https://github.com/quavedev/code-challenge) - 
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
 - [devhatt/pet-dex-frontend](https://github.com/devhatt/pet-dex-frontend) - 
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
