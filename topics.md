@@ -871,6 +871,7 @@
 
 ## others 
 
+- [quavedev/code-challenge](https://github.com/quavedev/code-challenge) - 
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [filipedeschamps/tabnews.com.br](https://github.com/filipedeschamps/tabnews.com.br) - Conteúdos para quem trabalha com Programação e Tecnologia.
 - [arthur404dev/learn-go](https://github.com/arthur404dev/learn-go) - 
