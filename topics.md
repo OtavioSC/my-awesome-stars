@@ -871,6 +871,7 @@
 
 ## others 
 
+- [leandronsp/canabrava](https://github.com/leandronsp/canabrava) - Uma versão em Bash para a Rinha de Backend 2ª edição
 - [quavedev/code-challenge](https://github.com/quavedev/code-challenge) - 
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [filipedeschamps/tabnews.com.br](https://github.com/filipedeschamps/tabnews.com.br) - Conteúdos para quem trabalha com Programação e Tecnologia.
@@ -977,7 +978,7 @@
 - [chughes29/Cloud-DevSecOps-Learning](https://github.com/chughes29/Cloud-DevSecOps-Learning) - Collection of Cloud and DevSecOps learning resources
 - [teikalang/teika](https://github.com/teikalang/teika) - 
 - [patrickloeber/pytorch-chatbot](https://github.com/patrickloeber/pytorch-chatbot) - Simple chatbot implementation with PyTorch.
-- [sherubthakur/dotfiles](https://github.com/sherubthakur/dotfiles) - My dotfiles + system configuration for NixOS and mac
+- [nixypanda/dotfiles](https://github.com/nixypanda/dotfiles) - My dotfiles + system configuration for NixOS and mac
 - [tobias-tengler/create-relay-app](https://github.com/tobias-tengler/create-relay-app) - Relay setup automation for CRA, Next.js and Vite
 - [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public) - My personal dotfiles
 - [devspace/awesome-github-templates](https://github.com/devspace/awesome-github-templates) - :octocat: Curated list of GitHub Issues and Pull Requests templates
