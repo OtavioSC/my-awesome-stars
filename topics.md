@@ -876,6 +876,7 @@
 
 ## others 
 
+- [NicolasLopes7/shipthing](https://github.com/NicolasLopes7/shipthing) - rebuilding vercel
 - [leandronsp/canabrava](https://github.com/leandronsp/canabrava) - Uma versão em Bash para a Rinha de Backend 2ª edição
 - [quavedev/code-challenge](https://github.com/quavedev/code-challenge) - 
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
