@@ -625,7 +625,7 @@
 
 - [neohaskell/NeoHaskell](https://github.com/neohaskell/NeoHaskell) - ⏩ NeoHaskell is a dialect of Haskell that is focused on newcomer-friendliness and productivity.
 - [soupi/haskell-study-plan](https://github.com/soupi/haskell-study-plan) - An opinionated list of resources for learning Haskell
-- [Guilherme775/Haskell4Noobs](https://github.com/Guilherme775/Haskell4Noobs) - Único roadmap de Haskell possível, do noob ao Thanos
+- [KindaSloth/Haskell4Noobs](https://github.com/KindaSloth/Haskell4Noobs) - Único roadmap de Haskell possível, do noob ao Thanos
 
 ## html 
 
