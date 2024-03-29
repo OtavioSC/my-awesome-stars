@@ -672,7 +672,7 @@
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (July 2023)
 - [alexgurr/react-coding-challenges](https://github.com/alexgurr/react-coding-challenges) - A series of ReactJS coding challenges with a variety of difficulties.
 - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
-- [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - Research on Web Performance
+- [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - Research in Web Performance
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [tc39/proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
 - [scarletquasar/MelonRuntime](https://github.com/scarletquasar/MelonRuntime) - ✨ .NET-based JavaScript runtime focused in rapid prototyping of projects, using minimal dependencies and functional programming
@@ -999,7 +999,7 @@
 - [aliyr/Nodejs-Developer-Roadmap](https://github.com/aliyr/Nodejs-Developer-Roadmap) - A Developer Roadmap to becoming a Node.js developer in 2019
 - [adolfont/brazilian-cs-research](https://github.com/adolfont/brazilian-cs-research) - Curated lists related to Brazilian Computer Science research and researchers
 - [thelinmichael/spotify-web-api-node](https://github.com/thelinmichael/spotify-web-api-node) - A Node.js wrapper for Spotify's Web API.
-- [lincolixavier/eXtreme-Programming-resources](https://github.com/lincolixavier/eXtreme-Programming-resources) - Uma lista de recursos pra estudar e ir a fundo em ⚡ eXtreme Programming ⚡
+- [lincolixavier/awesome-extreme-programming](https://github.com/lincolixavier/awesome-extreme-programming) - Uma lista de recursos pra estudar e ir a fundo em ⚡ eXtreme Programming ⚡
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
 - [pgjbz/rust4noobs](https://github.com/pgjbz/rust4noobs) - Repositório para auxiliar iniciantes na linguagem Rust
 - [Camilotk/ocaml4noobs](https://github.com/Camilotk/ocaml4noobs) - Tutorial de OCaml para iniciantes na Linguagem.
@@ -1146,7 +1146,7 @@
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (July 2023)
 - [splitbee/react-notion](https://github.com/splitbee/react-notion) - A fast React renderer for Notion pages
 - [alexgurr/react-coding-challenges](https://github.com/alexgurr/react-coding-challenges) - A series of ReactJS coding challenges with a variety of difficulties.
-- [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - Research on Web Performance
+- [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - Research in Web Performance
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
@@ -1349,7 +1349,7 @@
 
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
-- [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - Research on Web Performance
+- [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - Research in Web Performance
 - [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
