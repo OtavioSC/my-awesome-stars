@@ -876,6 +876,7 @@
 
 ## others 
 
+- [Fernanda-Kipper/login-app-backend](https://github.com/Fernanda-Kipper/login-app-backend) - 
 - [NicolasLopes7/shipthing](https://github.com/NicolasLopes7/shipthing) - rebuilding vercel
 - [leandronsp/canabrava](https://github.com/leandronsp/canabrava) - Uma versão em Bash para a Rinha de Backend 2ª edição
 - [quavedev/code-challenge](https://github.com/quavedev/code-challenge) - 
