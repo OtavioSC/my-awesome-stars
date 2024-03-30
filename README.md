@@ -149,6 +149,7 @@
 
 ## Java 
 
+- [Fernanda-Kipper/login-app-backend](https://github.com/Fernanda-Kipper/login-app-backend) - 
 - [WoMakersCode/challenges-algorithms](https://github.com/WoMakersCode/challenges-algorithms) - Repositório referente à desafios sobre algoritmos da womakerscode
 - [rabbitmq/rabbitmq-tutorials](https://github.com/rabbitmq/rabbitmq-tutorials) - Tutorials for using RabbitMQ in various ways
 
