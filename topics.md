@@ -905,7 +905,7 @@
 ## others 
 
 - [raphaeldelio/kafka-idempotent-consumer-demo](https://github.com/raphaeldelio/kafka-idempotent-consumer-demo) - The purpose of this demo is to prove that an idempotent consumer can be implemented using Kafka and Spring Boot and the Transactional Outbox Pattern.
-- [learn-video/streaming-platform](https://github.com/learn-video/streaming-platform) - A streaming platform based on open source software
+- [learn-video/dionysia](https://github.com/learn-video/dionysia) - A streaming platform based on open source software
 - [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [Fernanda-Kipper/login-app-backend](https://github.com/Fernanda-Kipper/login-app-backend) - 
 - [NicolasLopes7/shipthing](https://github.com/NicolasLopes7/shipthing) - rebuilding vercel
