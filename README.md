@@ -121,7 +121,7 @@
 
 ## Go 
 
-- [learn-video/streaming-platform](https://github.com/learn-video/streaming-platform) - A streaming platform based on open source software
+- [learn-video/dionysia](https://github.com/learn-video/dionysia) - A streaming platform based on open source software
 - [NicolasLopes7/shipthing](https://github.com/NicolasLopes7/shipthing) - rebuilding vercel
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
