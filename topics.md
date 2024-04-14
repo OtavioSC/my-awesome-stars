@@ -137,6 +137,7 @@
 - [software](#software)
 - [sql](#sql)
 - [sqlite](#sqlite)
+- [stable-diffusion](#stable-diffusion)
 - [statistics](#statistics)
 - [storybook](#storybook)
 - [telegram](#telegram)
@@ -1297,6 +1298,10 @@
 ## sqlite 
 
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Open Source Education Platform
+
+## stable-diffusion 
+
+- [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 
 ## statistics 
 
