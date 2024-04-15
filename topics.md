@@ -571,6 +571,7 @@
 
 ## golang 
 
+- [learn-video/dionysia](https://github.com/learn-video/dionysia) - A streaming platform based on open source software
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [ellisonleao/glow.nvim](https://github.com/ellisonleao/glow.nvim) - A markdown preview directly in your neovim.
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
@@ -906,7 +907,6 @@
 ## others 
 
 - [raphaeldelio/kafka-idempotent-consumer-demo](https://github.com/raphaeldelio/kafka-idempotent-consumer-demo) - The purpose of this demo is to prove that an idempotent consumer can be implemented using Kafka and Spring Boot and the Transactional Outbox Pattern.
-- [learn-video/dionysia](https://github.com/learn-video/dionysia) - A streaming platform based on open source software
 - [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [Fernanda-Kipper/login-app-backend](https://github.com/Fernanda-Kipper/login-app-backend) - 
 - [NicolasLopes7/shipthing](https://github.com/NicolasLopes7/shipthing) - rebuilding vercel
