@@ -45,6 +45,7 @@
 - [discord](#discord)
 - [docker](#docker)
 - [documentation](#documentation)
+- [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
 - [education](#education)
 - [electron](#electron)
@@ -469,6 +470,13 @@
 
 - [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+
+## dotfiles 
+
+- [polybar/polybar-scripts](https://github.com/polybar/polybar-scripts) - This is a community project. We write and collect scripts for polybar!
+- [parazeeknova/pistachio-V2-dotfiles](https://github.com/parazeeknova/pistachio-V2-dotfiles) - Updated Dotfiles for my previous rice but with new theme structure according to the new Archcraft Update :)
+- [linuxmobile/hyprland-dots](https://github.com/linuxmobile/hyprland-dots) - 🦄 Hyprland Cute Dotfiles
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 
 ## dotnet 
 
@@ -992,7 +1000,6 @@
 - [mountain-theme/Mountain](https://github.com/mountain-theme/Mountain) - Neutral. Calm.
 - [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders) - A framework for Engineering Managers
 - [will8211/unimatrix](https://github.com/will8211/unimatrix) - Python script to simulate the display from "The Matrix" in terminal. Uses half-width katakana unicode characters by default, but can use custom character sets. Accepts keyboard controls while running.
-- [parazeeknova/pistachio-V2-dotfiles](https://github.com/parazeeknova/pistachio-V2-dotfiles) - Updated Dotfiles for my previous rice but with new theme structure according to the new Archcraft Update :)
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
 - [ed-roh/mern-social-media](https://github.com/ed-roh/mern-social-media) - Complete React MERN Full Stack Social Media App
 - [knrt10/kubernetes-basicLearning](https://github.com/knrt10/kubernetes-basicLearning) - Understand kubernetes step by step. A simple repo for beginners :fire:
