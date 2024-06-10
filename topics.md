@@ -323,6 +323,7 @@
 
 ## c 
 
+- [Plankiton/CParaSeresHumanos](https://github.com/Plankiton/CParaSeresHumanos) - Livro para iniciantes na linguagem C
 - [aappleby/matcheroni](https://github.com/aappleby/matcheroni) - A minimalist single-header library for building pattern-matchers, lexers, and parsers.
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [felipenlunkes/osdevbr](https://github.com/felipenlunkes/osdevbr) - Tutoriais e referências para o desenvolvimento de um sistema operacional (português)
@@ -482,7 +483,7 @@
 ## dotnet 
 
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
-- [scarletquasar/MelonRuntime](https://github.com/scarletquasar/MelonRuntime) - ✨ .NET-based JavaScript runtime focused in rapid prototyping of projects, using minimal dependencies and functional programming
+- [somecodingwitch/MelonRuntime](https://github.com/somecodingwitch/MelonRuntime) - ✨ .NET-based JavaScript runtime focused in rapid prototyping of projects, using minimal dependencies and functional programming
 
 ## education 
 
@@ -723,7 +724,7 @@
 - [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - Research in Web Performance
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [tc39/proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
-- [scarletquasar/MelonRuntime](https://github.com/scarletquasar/MelonRuntime) - ✨ .NET-based JavaScript runtime focused in rapid prototyping of projects, using minimal dependencies and functional programming
+- [somecodingwitch/MelonRuntime](https://github.com/somecodingwitch/MelonRuntime) - ✨ .NET-based JavaScript runtime focused in rapid prototyping of projects, using minimal dependencies and functional programming
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2024)
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
@@ -762,6 +763,7 @@
 
 ## learning 
 
+- [Plankiton/CParaSeresHumanos](https://github.com/Plankiton/CParaSeresHumanos) - Livro para iniciantes na linguagem C
 - [learn-anything/books](https://github.com/learn-anything/books) - Awesome Books
 - [aeturrell/coding-for-economists](https://github.com/aeturrell/coding-for-economists) - This repository hosts the code behind the online book, Coding for Economists.
 - [soupi/haskell-study-plan](https://github.com/soupi/haskell-study-plan) - An opinionated list of resources for learning Haskell
@@ -807,6 +809,7 @@
 
 ## markdown 
 
+- [Plankiton/CParaSeresHumanos](https://github.com/Plankiton/CParaSeresHumanos) - Livro para iniciantes na linguagem C
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
