@@ -31,6 +31,7 @@
 - [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
 - [cpp](#cpp)
+- [cryptography](#cryptography)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
 - [data](#data)
@@ -391,6 +392,10 @@
 ## cpp 
 
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
+
+## cryptography 
+
+- [freenet/freenet-core](https://github.com/freenet/freenet-core) - Declare your digital independence
 
 ## css 
 
@@ -939,6 +944,7 @@
 
 ## others 
 
+- [fxn/vim-monochrome](https://github.com/fxn/vim-monochrome) - Monochrome color scheme for Vim
 - [ensine-se-ciencia-da-computacao/sicp-portugues](https://github.com/ensine-se-ciencia-da-computacao/sicp-portugues) - Versão HTML5/EPUB3 traduzida do Livro SICP
 - [sarabander/sicp](https://github.com/sarabander/sicp) - HTML5/EPUB3 version of SICP
 - [hydralauncher/hydra](https://github.com/hydralauncher/hydra) - Hydra is a game launcher with its own embedded bittorrent client and a self-managed repack scraper.
