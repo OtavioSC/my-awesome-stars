@@ -949,6 +949,7 @@
 
 ## others 
 
+- [wrongbyte/awesome-learning](https://github.com/wrongbyte/awesome-learning) - :sparkles: A curated list of resources on the science of learning anything
 - [fxn/vim-monochrome](https://github.com/fxn/vim-monochrome) - Monochrome color scheme for Vim
 - [ensine-se-ciencia-da-computacao/sicp-portugues](https://github.com/ensine-se-ciencia-da-computacao/sicp-portugues) - Versão HTML5/EPUB3 traduzida do Livro SICP
 - [sarabander/sicp](https://github.com/sarabander/sicp) - HTML5/EPUB3 version of SICP
@@ -1041,7 +1042,7 @@
 - [Droogans/unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html
 - [bramses/bramses-highly-opinionated-vault-2023](https://github.com/bramses/bramses-highly-opinionated-vault-2023) - A highly opinionated, fully featured Obsidian vault that can get you from Zero to Zettelkasten lickety split!
 - [diimdeep/awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) - A collection of ergonomic split keyboards ⌨
-- [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI an open source client for container development
+- [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI is an open source client for container development
 - [brson/my-rust-lists](https://github.com/brson/my-rust-lists) - Lightly organized personal notes about Rust
 - [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
