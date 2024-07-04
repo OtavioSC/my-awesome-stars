@@ -471,7 +471,7 @@
 
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
+- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
 - [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 
@@ -489,7 +489,7 @@
 
 ## dotnet 
 
-- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
+- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
 - [somecodingwitch/MelonRuntime](https://github.com/somecodingwitch/MelonRuntime) - ✨ .NET-based JavaScript runtime focused in rapid prototyping of projects, using minimal dependencies and functional programming
 
 ## education 
@@ -514,7 +514,7 @@
 - [christopheradams/elixir_style_guide](https://github.com/christopheradams/elixir_style_guide) - A community driven style guide for Elixir
 - [Universidade-Livre/Learn4Elixir](https://github.com/Universidade-Livre/Learn4Elixir) - Aprenda Elixir em 4 Pull Requests!
 - [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code & data workflows with interactive Elixir notebooks
-- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
+- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
 
 ## emacs 
 
@@ -596,7 +596,7 @@
 
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
-- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
+- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
 - [egonelbre/gophers](https://github.com/egonelbre/gophers) - Free gophers
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, GitOps enabled, CloudNative feature management solution
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -696,7 +696,7 @@
 
 ## java 
 
-- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
+- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
 - [WoMakersCode/challenges-algorithms](https://github.com/WoMakersCode/challenges-algorithms) - Repositório referente à desafios sobre algoritmos da womakerscode
 
 ## javascript 
@@ -707,7 +707,7 @@
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [JoshuaKGoldberg/create-typescript-app](https://github.com/JoshuaKGoldberg/create-typescript-app) - Quickstart-friendly TypeScript template with comprehensive, configurable, opinionated tooling. 💝
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
-- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
+- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity
 - [thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 🎮 The only Front-End Performance Checklist that runs faster than the others
@@ -980,7 +980,6 @@
 - [toddmotto/public-apis](https://github.com/toddmotto/public-apis) - A collective list of free APIs
 - [tastejs/awesome-app-ideas](https://github.com/tastejs/awesome-app-ideas) - List of awesome app ideas
 - [melanierichards/just-build-websites](https://github.com/melanierichards/just-build-websites) - Some ideas for websites you can build!
-- [samsquire/ideas](https://github.com/samsquire/ideas) - a hundred ideas for computing - a record of ideas - https://samsquire.github.io/ideas/
 - [napolux/1000ideas](https://github.com/napolux/1000ideas) - A github repository for 1000 free ideas
 - [h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:
 - [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
@@ -1122,7 +1121,7 @@
 
 ## php 
 
-- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
+- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
 - [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤.
 
 ## postgresql 
@@ -1165,7 +1164,7 @@
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [neohaskell/NeoHaskell](https://github.com/neohaskell/NeoHaskell) - ⏩ NeoHaskell is a dialect of Haskell that is focused on newcomer-friendliness and productivity.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
+- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
 - [imteekay/algorithms](https://github.com/imteekay/algorithms) - ✨ Algorithms & Data Structures & Computer Science studies
 - [polybar/polybar-scripts](https://github.com/polybar/polybar-scripts) - This is a community project. We write and collect scripts for polybar!
 - [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤.
@@ -1270,7 +1269,7 @@
 ## ruby 
 
 - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
-- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
+- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
 
 ## rust 
 
@@ -1281,7 +1280,7 @@
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [aripiprazole/rinha-de-compiler](https://github.com/aripiprazole/rinha-de-compiler) - 🥖 | Rinha de compiladores (ou interpretadores kkkk
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for web, desktop, mobile, and more.
-- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
+- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
 - [barter-rs/barter-rs](https://github.com/barter-rs/barter-rs) - Open-source Rust framework for building event-driven live-trading & backtesting systems
 - [freenet/freenet-core](https://github.com/freenet/freenet-core) - Declare your digital independence
 - [Brendonovich/prisma-client-rust](https://github.com/Brendonovich/prisma-client-rust) - Type-safe database access for Rust
@@ -1385,7 +1384,7 @@
 ## terraform 
 
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
+- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
 
 ## testing 
 
