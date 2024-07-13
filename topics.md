@@ -370,6 +370,7 @@
 
 ## compiler 
 
+- [amilajack/reading](https://github.com/amilajack/reading) - A list of computer-science readings I recommend
 - [ehsanmok/create-your-own-lang-with-rust](https://github.com/ehsanmok/create-your-own-lang-with-rust) - Create your own programming language with Rust
 - [austral/austral](https://github.com/austral/austral) - Systems language with linear types and capability-based security.
 - [imteekay/programming-language-research](https://github.com/imteekay/programming-language-research) - ✨ Programming Language Research, Applied PLT & Compilers
@@ -378,6 +379,8 @@
 
 ## computer-science 
 
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
+- [amilajack/reading](https://github.com/amilajack/reading) - A list of computer-science readings I recommend
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [imteekay/algorithms](https://github.com/imteekay/algorithms) - ✨ Algorithms & Data Structures & Computer Science studies
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
@@ -484,6 +487,7 @@
 
 ## documentation 
 
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 
@@ -774,6 +778,7 @@
 
 ## learning 
 
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [Plankiton/CParaSeresHumanos](https://github.com/Plankiton/CParaSeresHumanos) - Livro para iniciantes na linguagem C
 - [learn-anything/books](https://github.com/learn-anything/books) - Awesome Books
 - [aeturrell/coding-for-economists](https://github.com/aeturrell/coding-for-economists) - This repository hosts the code behind the online book, Coding for Economists.
@@ -944,6 +949,7 @@
 
 ## operating-system 
 
+- [amilajack/reading](https://github.com/amilajack/reading) - A list of computer-science readings I recommend
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
 - [jubalh/awesome-os](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff
 - [felipenlunkes/osdevbr](https://github.com/felipenlunkes/osdevbr) - Tutoriais e referências para o desenvolvimento de um sistema operacional (português)
