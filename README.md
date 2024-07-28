@@ -393,6 +393,7 @@
 
 ## Python 
 
+- [emacs-eaf/emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - EAF, an extensible framework that revolutionizes the graphical capabilities of Emacs
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [dunossauro/fastapi-do-zero](https://github.com/dunossauro/fastapi-do-zero) - Curso básico de FastAPI
 - [Universidade-Livre/rinha-de-algoritmos](https://github.com/Universidade-Livre/rinha-de-algoritmos) - Na Rinha de Algoritmos você deve utilizar suas habilidades para a criação de algoritmos eficientes para resolver problemas!
