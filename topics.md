@@ -976,7 +976,6 @@
 ## others 
 
 - [mietek/total-fp](https://github.com/mietek/total-fp) - Total functional programming (ESFP) literature
-- [rphlr/42-Subjects](https://github.com/rphlr/42-Subjects) - An essential collection of 42 School curriculum project PDFs in English and French, thoughtfully organized for students navigating the coding universe during 'freeze' periods or self-study sessions. 📖
 - [fpetras/42-subjects](https://github.com/fpetras/42-subjects) - English subjects of projects at 42
 - [marousta/42-C-Piscine-subjects](https://github.com/marousta/42-C-Piscine-subjects) - New 2019 subjects from C pool of 42 | Nouveaux sujets de 2019 de la piscine C de 42
 - [Stremio/stremio-core](https://github.com/Stremio/stremio-core) - ⚛️ The Stremio Core: types, addon system, UI models, core logic
