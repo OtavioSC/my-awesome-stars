@@ -146,6 +146,7 @@
 - [stable-diffusion](#stable-diffusion)
 - [statistics](#statistics)
 - [storybook](#storybook)
+- [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
 - [terminal](#terminal)
 - [terraform](#terraform)
@@ -1395,6 +1396,15 @@
 ## storybook 
 
 - [juntossomosmais/atomium](https://github.com/juntossomosmais/atomium) - Atomium is an internal design system for 'Juntos Somos Mais' using Web Components
+
+## tailwindcss 
+
+- [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
+- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
+- [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity
+- [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
+- [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 
 ## telegram 
 
