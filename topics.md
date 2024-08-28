@@ -976,6 +976,8 @@
 
 ## others 
 
+- [Cybr-Inc/appsec-engineer-roadmap](https://github.com/Cybr-Inc/appsec-engineer-roadmap) - Want to become an Application Security Engineer? Here's a roadmap to help you get there.
+- [PedroKetzer/roadmap-appsecbr](https://github.com/PedroKetzer/roadmap-appsecbr) - Junção de conteúdos, dicas e considerações da comunidade do Br de AppSec para divulgar a palavra do DevSecOps e orientar aspirantes que não se encaixam nem com Red e nem com Blue team
 - [foostan/crkbd](https://github.com/foostan/crkbd) - Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.
 - [mietek/total-fp](https://github.com/mietek/total-fp) - Total functional programming (ESFP) literature
 - [fpetras/42-subjects](https://github.com/fpetras/42-subjects) - English subjects of projects at 42
