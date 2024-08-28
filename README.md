@@ -256,6 +256,8 @@
 
 ## Others 
 
+- [Cybr-Inc/appsec-engineer-roadmap](https://github.com/Cybr-Inc/appsec-engineer-roadmap) - Want to become an Application Security Engineer? Here's a roadmap to help you get there.
+- [PedroKetzer/roadmap-appsecbr](https://github.com/PedroKetzer/roadmap-appsecbr) - Junção de conteúdos, dicas e considerações da comunidade do Br de AppSec para divulgar a palavra do DevSecOps e orientar aspirantes que não se encaixam nem com Red e nem com Blue team
 - [mietek/total-fp](https://github.com/mietek/total-fp) - Total functional programming (ESFP) literature
 - [fpetras/42-subjects](https://github.com/fpetras/42-subjects) - English subjects of projects at 42
 - [marousta/42-C-Piscine-subjects](https://github.com/marousta/42-C-Piscine-subjects) - New 2019 subjects from C pool of 42 | Nouveaux sujets de 2019 de la piscine C de 42
