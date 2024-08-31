@@ -258,6 +258,7 @@
 
 ## Others 
 
+- [veyselusta/programming-language-research](https://github.com/veyselusta/programming-language-research) - Research on theory of programming languages λ, compilers, interpreters, functional programming, formal methods, logic etc.
 - [ImplFerris/LearnRust](https://github.com/ImplFerris/LearnRust) - Rust Learning Resources
 - [geohot/fromthetransistor](https://github.com/geohot/fromthetransistor) - From the Transistor to the Web Browser, a rough outline for a 12 week course
 - [Cybr-Inc/appsec-engineer-roadmap](https://github.com/Cybr-Inc/appsec-engineer-roadmap) - Want to become an Application Security Engineer? Here's a roadmap to help you get there.
@@ -442,7 +443,7 @@
 
 ## Rust 
 
-- [iamgabrieloliveira/voty](https://github.com/iamgabrieloliveira/voty) - 
+- [iamgabrieloliveira/voty](https://github.com/iamgabrieloliveira/voty) - Voty it's a performant, robust, efficient voting application that uses CrabMQ.
 - [CrabMQ/rust-client](https://github.com/CrabMQ/rust-client) - Rust Client to interact with CrabMQ.
 - [Stremio/stremio-core](https://github.com/Stremio/stremio-core) - ⚛️ The Stremio Core: types, addon system, UI models, core logic
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
