@@ -45,6 +45,7 @@
 - [design](#design)
 - [devops](#devops)
 - [discord](#discord)
+- [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
@@ -147,6 +148,7 @@
 - [stable-diffusion](#stable-diffusion)
 - [statistics](#statistics)
 - [storybook](#storybook)
+- [swift](#swift)
 - [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
 - [terminal](#terminal)
@@ -154,6 +156,7 @@
 - [testing](#testing)
 - [twitter](#twitter)
 - [typescript](#typescript)
+- [unity](#unity)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
 - [web](#web)
@@ -187,6 +190,7 @@
 
 ## android 
 
+- [evgenkarlson/ALL_SCHOOL_42](https://github.com/evgenkarlson/ALL_SCHOOL_42) - | SCHOOL_42_UPDATE 2020 | This repository contains ALL PROJECTS, TASKS AND SUBJECTS  OF THE MAIN PROGRAM OF LEARNING AT SCHOOL 42 ( Program | Course | Programing | Coding | School 42 | Ecole 42 | Scho
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
@@ -218,6 +222,7 @@
 
 ## awesome 
 
+- [jotavare/42-resources](https://github.com/jotavare/42-resources) - My curated 42 school resource collection. The good, the bad and the ugly.
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
@@ -334,6 +339,7 @@
 
 ## c 
 
+- [Binary-Hackers/42_Subjects](https://github.com/Binary-Hackers/42_Subjects) - All Subjects of 42 School
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
 - [rodsmade/Projets_42_SP](https://github.com/rodsmade/Projets_42_SP) - 🌵 Todos os projetos desenvolvidos na escola 42 São Paulo 💂 All projects developed at 42 school São Paulo
 - [Plankiton/CParaSeresHumanos](https://github.com/Plankiton/CParaSeresHumanos) - Livro para iniciantes na linguagem C
@@ -410,6 +416,8 @@
 
 ## cpp 
 
+- [Binary-Hackers/42_Subjects](https://github.com/Binary-Hackers/42_Subjects) - All Subjects of 42 School
+- [evgenkarlson/ALL_SCHOOL_42](https://github.com/evgenkarlson/ALL_SCHOOL_42) - | SCHOOL_42_UPDATE 2020 | This repository contains ALL PROJECTS, TASKS AND SUBJECTS  OF THE MAIN PROGRAM OF LEARNING AT SCHOOL 42 ( Program | Course | Programing | Coding | School 42 | Ecole 42 | Scho
 - [rodsmade/Projets_42_SP](https://github.com/rodsmade/Projets_42_SP) - 🌵 Todos os projetos desenvolvidos na escola 42 São Paulo 💂 All projects developed at 42 school São Paulo
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 
@@ -431,6 +439,7 @@
 
 ## cybersecurity 
 
+- [jotavare/42-resources](https://github.com/jotavare/42-resources) - My curated 42 school resource collection. The good, the bad and the ugly.
 - [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
 - [jassics/security-study-plan](https://github.com/jassics/security-study-plan) - Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...
 
@@ -487,6 +496,10 @@
 ## discord 
 
 - [devpt-org/discord-bot](https://github.com/devpt-org/discord-bot) - Uma experiência colaborativa construindo um  BotDiscord devPT utilizando Hexagonal Arch
+
+## django 
+
+- [Binary-Hackers/42_Subjects](https://github.com/Binary-Hackers/42_Subjects) - All Subjects of 42 School
 
 ## docker 
 
@@ -711,6 +724,7 @@
 
 ## ios 
 
+- [evgenkarlson/ALL_SCHOOL_42](https://github.com/evgenkarlson/ALL_SCHOOL_42) - | SCHOOL_42_UPDATE 2020 | This repository contains ALL PROJECTS, TASKS AND SUBJECTS  OF THE MAIN PROGRAM OF LEARNING AT SCHOOL 42 ( Program | Course | Programing | Coding | School 42 | Ecole 42 | Scho
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
 
 ## java 
@@ -802,6 +816,7 @@
 
 ## linux 
 
+- [jotavare/42-resources](https://github.com/jotavare/42-resources) - My curated 42 school resource collection. The good, the bad and the ugly.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -978,9 +993,10 @@
 
 ## others 
 
+- [pasqualerossi/42-School-Guide](https://github.com/pasqualerossi/42-School-Guide) - This guide shows what order you should do the 42 Projects in (From Easiest to Hardest)
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
 - [veyselusta/programming-language-research](https://github.com/veyselusta/programming-language-research) - Research on theory of programming languages λ, compilers, interpreters, functional programming, formal methods, logic etc.
-- [alirezasamar/Dragon-Book-Solutions](https://github.com/alirezasamar/Dragon-Book-Solutions) - Compilers Principles, Techniques, & Tools (a.k.a purple dragon book) second edition exercise answers.
+- [AlirezaSamar/Dragon-Book-Solutions](https://github.com/AlirezaSamar/Dragon-Book-Solutions) - Compilers Principles, Techniques, & Tools (a.k.a purple dragon book) second edition exercise answers.
 - [geohot/fromthetransistor](https://github.com/geohot/fromthetransistor) - From the Transistor to the Web Browser, a rough outline for a 12 week course
 - [iamgabrieloliveira/voty](https://github.com/iamgabrieloliveira/voty) - Voty it's a performant, robust, efficient voting application that uses CrabMQ.
 - [Cybr-Inc/appsec-engineer-roadmap](https://github.com/Cybr-Inc/appsec-engineer-roadmap) - Want to become an Application Security Engineer? Here's a roadmap to help you get there.
@@ -1162,6 +1178,8 @@
 
 ## php 
 
+- [Binary-Hackers/42_Subjects](https://github.com/Binary-Hackers/42_Subjects) - All Subjects of 42 School
+- [evgenkarlson/ALL_SCHOOL_42](https://github.com/evgenkarlson/ALL_SCHOOL_42) - | SCHOOL_42_UPDATE 2020 | This repository contains ALL PROJECTS, TASKS AND SUBJECTS  OF THE MAIN PROGRAM OF LEARNING AT SCHOOL 42 ( Program | Course | Programing | Coding | School 42 | Ecole 42 | Scho
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
 - [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤.
 
@@ -1179,6 +1197,7 @@
 
 ## privacy 
 
+- [jotavare/42-resources](https://github.com/jotavare/42-resources) - My curated 42 school resource collection. The good, the bad and the ugly.
 - [freenet/freenet-core](https://github.com/freenet/freenet-core) - Declare your digital independence
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -1186,6 +1205,7 @@
 
 ## programming 
 
+- [evgenkarlson/ALL_SCHOOL_42](https://github.com/evgenkarlson/ALL_SCHOOL_42) - | SCHOOL_42_UPDATE 2020 | This repository contains ALL PROJECTS, TASKS AND SUBJECTS  OF THE MAIN PROGRAM OF LEARNING AT SCHOOL 42 ( Program | Course | Programing | Coding | School 42 | Ecole 42 | Scho
 - [ImplFerris/LearnRust](https://github.com/ImplFerris/LearnRust) - Rust Learning Resources
 - [hwayne/awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers) - For when people get too hyped up about things
 - [CrowdHailer/eyg-lang](https://github.com/CrowdHailer/eyg-lang) - Experiments in building "better" languages and tools; for some measure of better.
@@ -1203,6 +1223,8 @@
 
 ## python 
 
+- [Binary-Hackers/42_Subjects](https://github.com/Binary-Hackers/42_Subjects) - All Subjects of 42 School
+- [evgenkarlson/ALL_SCHOOL_42](https://github.com/evgenkarlson/ALL_SCHOOL_42) - | SCHOOL_42_UPDATE 2020 | This repository contains ALL PROJECTS, TASKS AND SUBJECTS  OF THE MAIN PROGRAM OF LEARNING AT SCHOOL 42 ( Program | Course | Programing | Coding | School 42 | Ecole 42 | Scho
 - [dunossauro/fastapi-do-zero](https://github.com/dunossauro/fastapi-do-zero) - Curso básico de FastAPI
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [neohaskell/NeoHaskell](https://github.com/neohaskell/NeoHaskell) - ⏩ NeoHaskell is a dialect of Haskell that is focused on newcomer-friendliness and productivity.
@@ -1415,6 +1437,11 @@
 
 - [juntossomosmais/atomium](https://github.com/juntossomosmais/atomium) - Atomium is an internal design system for 'Juntos Somos Mais' using Web Components
 
+## swift 
+
+- [Binary-Hackers/42_Subjects](https://github.com/Binary-Hackers/42_Subjects) - All Subjects of 42 School
+- [evgenkarlson/ALL_SCHOOL_42](https://github.com/evgenkarlson/ALL_SCHOOL_42) - | SCHOOL_42_UPDATE 2020 | This repository contains ALL PROJECTS, TASKS AND SUBJECTS  OF THE MAIN PROGRAM OF LEARNING AT SCHOOL 42 ( Program | Course | Programing | Coding | School 42 | Ecole 42 | Scho
+
 ## tailwindcss 
 
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
@@ -1479,6 +1506,10 @@
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
+
+## unity 
+
+- [Binary-Hackers/42_Subjects](https://github.com/Binary-Hackers/42_Subjects) - All Subjects of 42 School
 
 ## vim 
 
