@@ -373,7 +373,6 @@
 - [analyticalmonk/awesome-neuroscience](https://github.com/analyticalmonk/awesome-neuroscience) - A curated list of awesome neuroscience libraries, software and any content related to the domain.
 - [felipenlunkes/osdevbr](https://github.com/felipenlunkes/osdevbr) - Tutoriais e referências para o desenvolvimento de um sistema operacional (português)
 - [We5ter/Scanners-Box](https://github.com/We5ter/Scanners-Box) - A powerful and open-source toolkit for hackers and security automation - 安全行业从业者自研开源扫描器合辑
-- [nikitavoloboev/wiki](https://github.com/nikitavoloboev/wiki) - Everything I know
 - [tc39/proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [PicPay/picpay-desafio-backend](https://github.com/PicPay/picpay-desafio-backend) - Desafio técnico - Backend
@@ -588,6 +587,7 @@
 ## Vue 
 
 - [timsayshey/cringe-clock](https://github.com/timsayshey/cringe-clock) - In your face Desktop Pomodoro App for the Wildly Distractible
+- [nikitavoloboev/data](https://github.com/nikitavoloboev/data) - All kinds of things
 
 
 ## License
