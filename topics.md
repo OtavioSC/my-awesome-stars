@@ -1132,7 +1132,7 @@
 - [krispo/awesome-haskell](https://github.com/krispo/awesome-haskell) - A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
 - [lucasviola/awesome-functional-programming](https://github.com/lucasviola/awesome-functional-programming) - :alien: A curated list of functional programming resources such as blog posts, communities, discussion topics, wikis and more.
 - [GShadowBroker/orkut-clone-client](https://github.com/GShadowBroker/orkut-clone-client) - A clone of the social media Orkut
-- [nikitavoloboev/wiki](https://github.com/nikitavoloboev/wiki) - Everything I know
+- [nikitavoloboev/data](https://github.com/nikitavoloboev/data) - All kinds of things
 - [ArtToledo/manga-downloader-kindle](https://github.com/ArtToledo/manga-downloader-kindle) - 
 - [flaviojmendes/trilhainfo](https://github.com/flaviojmendes/trilhainfo) - 
 - [PicPay/picpay-desafio-backend](https://github.com/PicPay/picpay-desafio-backend) - Desafio técnico - Backend
