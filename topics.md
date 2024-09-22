@@ -85,6 +85,7 @@
 - [jupyter-notebook](#jupyter-notebook)
 - [kubernetes](#kubernetes)
 - [language](#language)
+- [laravel](#laravel)
 - [latex](#latex)
 - [learning](#learning)
 - [linux](#linux)
@@ -668,6 +669,7 @@
 
 ## hacktoberfest 
 
+- [HDInnovations/UNIT3D-Community-Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - Private Torrent Tracker Built With Laravel, Livewire and AlpineJS.
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [wh0isdxk/DesenvolvimentoSeguro](https://github.com/wh0isdxk/DesenvolvimentoSeguro) - Principios e Boas Práticas sobre Desenvolvimento Seguro
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
@@ -807,6 +809,10 @@
 
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
 - [tc39/proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
+
+## laravel 
+
+- [HDInnovations/UNIT3D-Community-Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - Private Torrent Tracker Built With Laravel, Livewire and AlpineJS.
 
 ## latex 
 
@@ -1006,6 +1012,8 @@
 
 ## others 
 
+- [HDVinnie/Torrent-Tracker-Platforms](https://github.com/HDVinnie/Torrent-Tracker-Platforms) - A Curated List Of Torrent Tracker Platforms/Codebases Written In Multiple Coding Languages
+- [OPSnet/Gazelle](https://github.com/OPSnet/Gazelle) - 
 - [pasqualerossi/42-School-Guide](https://github.com/pasqualerossi/42-School-Guide) - This guide shows what order you should do the 42 Projects in (From Easiest to Hardest)
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
 - [veyselusta/programming-language-research](https://github.com/veyselusta/programming-language-research) - Research on theory of programming languages λ, compilers, interpreters, functional programming, formal methods, logic etc.
@@ -1191,6 +1199,7 @@
 
 ## php 
 
+- [HDInnovations/UNIT3D-Community-Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - Private Torrent Tracker Built With Laravel, Livewire and AlpineJS.
 - [Binary-Hackers/42_Subjects](https://github.com/Binary-Hackers/42_Subjects) - All Subjects of 42 School
 - [evgenkarlson/ALL_SCHOOL_42](https://github.com/evgenkarlson/ALL_SCHOOL_42) - | SCHOOL_42_UPDATE 2020 | This repository contains ALL PROJECTS, TASKS AND SUBJECTS  OF THE MAIN PROGRAM OF LEARNING AT SCHOOL 42 ( Program | Course | Programing | Coding | School 42 | Ecole 42 | Scho
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
