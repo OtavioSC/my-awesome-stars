@@ -746,6 +746,7 @@
 
 ## javascript 
 
+- [Neet-Nestor/Telegram-Media-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader) - A script allowing you to download images and videos from Telegram web even if the group restricts downloading.
 - [elbywan/wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax. :candy:
 - [khaosdoctor/sound-recommender](https://github.com/khaosdoctor/sound-recommender) - Simple API to recommend songs
 - [devhatt/pet-dex-frontend](https://github.com/devhatt/pet-dex-frontend) - 
@@ -1106,7 +1107,7 @@
 - [codecon-dev/awesome-communities-and-events-tech-brazil](https://github.com/codecon-dev/awesome-communities-and-events-tech-brazil) - Uma curadoria de comunidades e eventos tech incríveis para você participar.
 - [kolodny/exercises](https://github.com/kolodny/exercises) - Some basic javascript coding challenges and interview questions
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
-- [HigherOrderCO/Kind1](https://github.com/HigherOrderCO/Kind1) - A modern proof language
+- [HigherOrderCO/Kind](https://github.com/HigherOrderCO/Kind) - A modern proof language
 - [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
 - [engenheiracoelho/curriculo](https://github.com/engenheiracoelho/curriculo) - Esse repositório tem o objetivo de te ajudar a criar um bom currículo
 - [bolodissenoura/guia-da-primeira-vaga](https://github.com/bolodissenoura/guia-da-primeira-vaga) - 
@@ -1475,6 +1476,7 @@
 
 ## telegram 
 
+- [Neet-Nestor/Telegram-Media-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader) - A script allowing you to download images and videos from Telegram web even if the group restricts downloading.
 - [ti-no-canada/imigracao-para-o-canada](https://github.com/ti-no-canada/imigracao-para-o-canada) - Repositorio geral do grupo no telegram TI no Canada
 
 ## terminal 
