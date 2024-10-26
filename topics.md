@@ -1017,6 +1017,7 @@
 
 ## others 
 
+- [cipher387/Advanced-search-operators-list](https://github.com/cipher387/Advanced-search-operators-list) - List of the links to the docs for different services, which explain using of advanced search operators
 - [PellelNitram/xournalpp_htr](https://github.com/PellelNitram/xournalpp_htr) - Developing handwritten text recognition for Xournal++
 - [HDVinnie/Torrent-Tracker-Platforms](https://github.com/HDVinnie/Torrent-Tracker-Platforms) - A Curated List Of Torrent Tracker Platforms/Codebases Written In Multiple Coding Languages
 - [OPSnet/Gazelle](https://github.com/OPSnet/Gazelle) - 
