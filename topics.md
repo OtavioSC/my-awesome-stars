@@ -1056,7 +1056,6 @@
 - [matheusmorett2/dev-outsourcing-latam](https://github.com/matheusmorett2/dev-outsourcing-latam) - 
 - [michaelt/martin-lof](https://github.com/michaelt/martin-lof) - papers of Per Martin Löf
 - [williamdemeo/TypeFunc](https://github.com/williamdemeo/TypeFunc) - Resources for type theory, functional programming, etc.
-- [MatheusTT/wallpapers](https://github.com/MatheusTT/wallpapers) - 
 - [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) - Showcase your skills on your Github readme or resumé with ease ✨
 - [timsayshey/cringe-clock](https://github.com/timsayshey/cringe-clock) - In your face Desktop Pomodoro App for the Wildly Distractible
 - [efueyo/td.nvim](https://github.com/efueyo/td.nvim) - Tower defense game for Neovim
@@ -1253,6 +1252,7 @@
 - [Binary-Hackers/42_Subjects](https://github.com/Binary-Hackers/42_Subjects) - All Subjects of 42 School
 - [evgenkarlson/ALL_SCHOOL_42](https://github.com/evgenkarlson/ALL_SCHOOL_42) - | SCHOOL_42_UPDATE 2020 | This repository contains ALL PROJECTS, TASKS AND SUBJECTS  OF THE MAIN PROGRAM OF LEARNING AT SCHOOL 42 ( Program | Course | Programing | Coding | School 42 | Ecole 42 | Scho
 - [dunossauro/fastapi-do-zero](https://github.com/dunossauro/fastapi-do-zero) - Curso básico de FastAPI
+- [MatheusTT/wallpapers](https://github.com/MatheusTT/wallpapers) - My collection of wallpapers
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [neohaskell/NeoHaskell](https://github.com/neohaskell/NeoHaskell) - ⏩ NeoHaskell is a dialect of Haskell that is focused on newcomer-friendliness and productivity.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
