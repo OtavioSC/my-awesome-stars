@@ -450,7 +450,6 @@
 ## data 
 
 - [ngneat/falso](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs 🙂
-- [nikitavoloboev/data](https://github.com/nikitavoloboev/data) - All kinds of things
 
 ## data-science 
 
@@ -642,6 +641,7 @@
 - [egonelbre/gophers](https://github.com/egonelbre/gophers) - Free gophers
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, GitOps enabled, CloudNative feature management solution
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+- [nikitavoloboev/go](https://github.com/nikitavoloboev/go) - Go tools, libraries and other code
 
 ## golang 
 
@@ -1079,7 +1079,7 @@
 - [HoTT/book](https://github.com/HoTT/book) - A textbook on informal homotopy type theory
 - [forjadev/.github](https://github.com/forjadev/.github) - Forja description, listing projects, its crew and more
 - [ocodista/trampar-de-casa](https://github.com/ocodista/trampar-de-casa) - Apoiamos o trabalho remoto e divulgamos vagas semanalmente para inscritos.
-- [osynavets/build-your-own-x-in-rust](https://github.com/osynavets/build-your-own-x-in-rust) - 
+- [durnosmih/build-your-own-x-in-rust](https://github.com/durnosmih/build-your-own-x-in-rust) - 
 - [noghartt/my-awesome-stars](https://github.com/noghartt/my-awesome-stars) - 
 - [rochacbruno/my-awesome-stars](https://github.com/rochacbruno/my-awesome-stars) - 
 - [facebookexperimental/reverie](https://github.com/facebookexperimental/reverie) - An ergonomic and safe syscall interception framework for Linux.
@@ -1405,6 +1405,7 @@
 
 ## security 
 
+- [paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec) - A curated list of resources for learning about application security
 - [wh0isdxk/DesenvolvimentoSeguro](https://github.com/wh0isdxk/DesenvolvimentoSeguro) - Principios e Boas Práticas sobre Desenvolvimento Seguro
 - [sbilly/awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 - [jassics/awesome-aws-security](https://github.com/jassics/awesome-aws-security) - Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security
