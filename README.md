@@ -138,6 +138,7 @@
 
 ## Go 
 
+- [securego/gosec](https://github.com/securego/gosec) - Go security checker
 - [dionysia-dev/dionysia](https://github.com/dionysia-dev/dionysia) - A streaming platform based on open source software
 - [NicolasLopes7/shipthing](https://github.com/NicolasLopes7/shipthing) - rebuilding vercel
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
@@ -268,6 +269,9 @@
 
 ## Others 
 
+- [kaiiyer/awesome-vulnerable](https://github.com/kaiiyer/awesome-vulnerable) - A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB.
+- [mgreiler/secure-code-review-checklist](https://github.com/mgreiler/secure-code-review-checklist) - 
+- [Binject/awesome-go-security](https://github.com/Binject/awesome-go-security) - A dedicated place for cool golang security projects
 - [sivaprasadreddy/tomato-architecture](https://github.com/sivaprasadreddy/tomato-architecture) - Tomato Architecture - A common sense driven approach to software architecture
 - [LadyKerr/github-certification-guide](https://github.com/LadyKerr/github-certification-guide) - Resources to help you get GitHub certified ✨
 - [cipher387/Advanced-search-operators-list](https://github.com/cipher387/Advanced-search-operators-list) - List of the links to the docs for different services, which explain using of advanced search operators
