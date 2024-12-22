@@ -23,6 +23,7 @@
 - [Fennel](#fennel)
 - [Gleam](#gleam)
 - [Go](#go)
+- [Groff](#groff)
 - [HTML](#html)
 - [Haskell](#haskell)
 - [Java](#java)
@@ -113,6 +114,7 @@
 
 ## Dockerfile 
 
+- [OWASP/wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
 
 ## Elixir 
@@ -138,6 +140,7 @@
 
 ## Go 
 
+- [OWASP/Go-SCP](https://github.com/OWASP/Go-SCP) - Golang Secure Coding Practices guide
 - [securego/gosec](https://github.com/securego/gosec) - Go security checker
 - [dionysia-dev/dionysia](https://github.com/dionysia-dev/dionysia) - A streaming platform based on open source software
 - [NicolasLopes7/shipthing](https://github.com/NicolasLopes7/shipthing) - rebuilding vercel
@@ -150,6 +153,10 @@
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI is an open source client for container development
 - [nikitavoloboev/go](https://github.com/nikitavoloboev/go) - Go tools, libraries and other code
+
+## Groff 
+
+- [opendns/Security_Ninjas_AppSec_Training](https://github.com/opendns/Security_Ninjas_AppSec_Training) - OpenDNS application security training program
 
 ## HTML 
 
@@ -269,6 +276,12 @@
 
 ## Others 
 
+- [Simpsonpt/AppSecEzine](https://github.com/Simpsonpt/AppSecEzine) - AppSec Ezine Public Repository.
+- [security-prince/Resources-for-Application-Security](https://github.com/security-prince/Resources-for-Application-Security) - Some good resources for getting started with application security
+- [MahdiMashrur/Awesome-Application-Security-Checklist](https://github.com/MahdiMashrur/Awesome-Application-Security-Checklist) - Checklist of the most important security countermeasures when designing, creating, testing  your web/mobile application
+- [security-prince/Application-Security-Engineer-Interview-Questions](https://github.com/security-prince/Application-Security-Engineer-Interview-Questions) - Some of the questions which i was asked when i was giving interviews for Application/Product Security roles. I am sure this is not an exhaustive list but i felt these questions were important to be as
+- [Anof-cyber/Application-Security](https://github.com/Anof-cyber/Application-Security) - Resources for Application Security including Web, API, Android, iOS and Thick Client
+- [infoslack/awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking) - A list of web application security
 - [kaiiyer/awesome-vulnerable](https://github.com/kaiiyer/awesome-vulnerable) - A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB.
 - [mgreiler/secure-code-review-checklist](https://github.com/mgreiler/secure-code-review-checklist) - 
 - [Binject/awesome-go-security](https://github.com/Binject/awesome-go-security) - A dedicated place for cool golang security projects
@@ -416,6 +429,7 @@
 
 ## PHP 
 
+- [LeonardoE95/OSCP](https://github.com/LeonardoE95/OSCP) - Knowledge for OSCP
 - [paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec) - A curated list of resources for learning about application security
 - [HDInnovations/UNIT3D-Community-Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - Private Torrent Tracker Built With Laravel, Livewire and AlpineJS.
 - [OPSnet/Gazelle](https://github.com/OPSnet/Gazelle) - 
@@ -423,6 +437,7 @@
 
 ## Python 
 
+- [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [PellelNitram/xournalpp_htr](https://github.com/PellelNitram/xournalpp_htr) - Developing handwritten text recognition for Xournal++
 - [emacs-eaf/emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - EAF, an extensible framework that revolutionizes the graphical capabilities of Emacs
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
