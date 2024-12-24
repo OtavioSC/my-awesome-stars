@@ -1209,7 +1209,7 @@
 - [Camilotk/ocaml4noobs](https://github.com/Camilotk/ocaml4noobs) - Tutorial de OCaml para iniciantes na Linguagem.
 - [Camilotk/trabalhos-da-faculdade](https://github.com/Camilotk/trabalhos-da-faculdade) - 🎓 Todos os trabalhos desenvolvidos durante a graduação no IFRS.
 - [sfmcdg/Salesforce-Marketing-Cloud-Developer-Edition-Recipes](https://github.com/sfmcdg/Salesforce-Marketing-Cloud-Developer-Edition-Recipes) - Salesforce Marketing Cloud Developer Edition Recipes
-- [DanielHe4rt/backend4noobs](https://github.com/DanielHe4rt/backend4noobs) - Um guia básico para você adentrar ao mundo do desenvolvimento web!
+- [danielhe4rt/backend4noobs](https://github.com/danielhe4rt/backend4noobs) - Um guia básico para você adentrar ao mundo do desenvolvimento web!
 - [CollabCodeTech/backend-challenges](https://github.com/CollabCodeTech/backend-challenges) - A public list of open-source challenges from jobs around the world
 - [FotonTech/blockchain-academy](https://github.com/FotonTech/blockchain-academy) - A complete route for you to become a master of blockchain development.
 - [fakenickels/fantom-kittens](https://github.com/fakenickels/fantom-kittens) - KITTEN BUSINESS IS SERIOUS BUSINESS
