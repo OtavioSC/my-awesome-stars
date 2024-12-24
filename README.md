@@ -412,7 +412,7 @@
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [Camilotk/trabalhos-da-faculdade](https://github.com/Camilotk/trabalhos-da-faculdade) - 🎓 Todos os trabalhos desenvolvidos durante a graduação no IFRS.
 - [sfmcdg/Salesforce-Marketing-Cloud-Developer-Edition-Recipes](https://github.com/sfmcdg/Salesforce-Marketing-Cloud-Developer-Edition-Recipes) - Salesforce Marketing Cloud Developer Edition Recipes
-- [DanielHe4rt/backend4noobs](https://github.com/DanielHe4rt/backend4noobs) - Um guia básico para você adentrar ao mundo do desenvolvimento web!
+- [danielhe4rt/backend4noobs](https://github.com/danielhe4rt/backend4noobs) - Um guia básico para você adentrar ao mundo do desenvolvimento web!
 - [CollabCodeTech/backend-challenges](https://github.com/CollabCodeTech/backend-challenges) - A public list of open-source challenges from jobs around the world
 - [KindaSloth/Haskell4Noobs](https://github.com/KindaSloth/Haskell4Noobs) - Único roadmap de Haskell possível, do noob ao Thanos
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
