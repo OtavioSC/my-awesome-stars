@@ -30,6 +30,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mercury](#mercury)
@@ -153,7 +154,6 @@
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, GitOps enabled, CloudNative feature management solution
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI is an open source client for container development
-- [nikitavoloboev/go](https://github.com/nikitavoloboev/go) - Go tools, libraries and other code
 
 ## Groff 
 
@@ -249,6 +249,10 @@
 - [rest-nvim/rest.nvim](https://github.com/rest-nvim/rest.nvim) - A very fast, powerful, extensible and asynchronous Neovim HTTP client written in Lua.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public) - My personal dotfiles
+
+## MDX 
+
+- [nikitavoloboev/docs](https://github.com/nikitavoloboev/docs) - 
 
 ## Makefile 
 
