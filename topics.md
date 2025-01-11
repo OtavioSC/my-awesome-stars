@@ -1056,6 +1056,7 @@
 
 ## others 
 
+- [alex-tdrn/zmk-config](https://github.com/alex-tdrn/zmk-config) - A 36 key layout with few layers and many combos
 - [peiyuanix/build-your-own-zerotier](https://github.com/peiyuanix/build-your-own-zerotier) - Build your own layer-2 virtual switch in less than 300 lines of code
 - [opendns/Security_Ninjas_AppSec_Training](https://github.com/opendns/Security_Ninjas_AppSec_Training) - OpenDNS application security training program
 - [Simpsonpt/AppSecEzine](https://github.com/Simpsonpt/AppSecEzine) - AppSec Ezine Public Repository.
