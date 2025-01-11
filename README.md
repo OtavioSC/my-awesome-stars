@@ -35,6 +35,7 @@
 - [Markdown](#markdown)
 - [Mercury](#mercury)
 - [Nix](#nix)
+- [Nushell](#nushell)
 - [OCaml](#ocaml)
 - [Others](#others)
 - [PHP](#php)
@@ -272,6 +273,10 @@
 
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [nixypanda/dotfiles](https://github.com/nixypanda/dotfiles) - My dotfiles + system configuration for NixOS and mac
+
+## Nushell 
+
+- [alex-tdrn/zmk-config](https://github.com/alex-tdrn/zmk-config) - A 36 key layout with few layers and many combos
 
 ## OCaml 
 
