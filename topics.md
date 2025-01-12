@@ -29,6 +29,7 @@
 - [cli](#cli)
 - [clojure](#clojure)
 - [code](#code)
+- [code-review](#code-review)
 - [coding](#coding)
 - [compiler](#compiler)
 - [computer-science](#computer-science)
@@ -215,6 +216,7 @@
 
 ## api 
 
+- [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
 - [MahdiMashrur/Awesome-Application-Security-Checklist](https://github.com/MahdiMashrur/Awesome-Application-Security-Checklist) - Checklist of the most important security countermeasures when designing, creating, testing  your web/mobile application
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
@@ -355,6 +357,7 @@
 
 ## bugbounty 
 
+- [0xRadi/OWASP-Web-Checklist](https://github.com/0xRadi/OWASP-Web-Checklist) - OWASP Web Application Security Testing Checklist
 - [OWASP/wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
 - [Anof-cyber/Application-Security](https://github.com/Anof-cyber/Application-Security) - Resources for Application Security including Web, API, Android, iOS and Thick Client
 
@@ -398,6 +401,10 @@
 ## code 
 
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
+
+## code-review 
+
+- [code-review-checklists/go-concurrency](https://github.com/code-review-checklists/go-concurrency) - Checklist for code reviews
 
 ## coding 
 
@@ -658,6 +665,7 @@
 
 ## go 
 
+- [code-review-checklists/go-concurrency](https://github.com/code-review-checklists/go-concurrency) - Checklist for code reviews
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
@@ -667,6 +675,7 @@
 
 ## golang 
 
+- [code-review-checklists/go-concurrency](https://github.com/code-review-checklists/go-concurrency) - Checklist for code reviews
 - [OWASP/Go-SCP](https://github.com/OWASP/Go-SCP) - Golang Secure Coding Practices guide
 - [securego/gosec](https://github.com/securego/gosec) - Go security checker
 - [dionysia-dev/dionysia](https://github.com/dionysia-dev/dionysia) - A streaming platform based on open source software
@@ -1056,6 +1065,9 @@
 
 ## others 
 
+- [CyberSecurityUP/Offensivesecurity-Checklists](https://github.com/CyberSecurityUP/Offensivesecurity-Checklists) - Checklists for Testing Security environment
+- [muellerberndt/android_app_security_checklist](https://github.com/muellerberndt/android_app_security_checklist) - Android App Security Checklist
+- [eltiffster/readingDocs](https://github.com/eltiffster/readingDocs) - Guide for reading and working with written technical documentation on the web.
 - [alex-tdrn/zmk-config](https://github.com/alex-tdrn/zmk-config) - A 36 key layout with few layers and many combos
 - [peiyuanix/build-your-own-zerotier](https://github.com/peiyuanix/build-your-own-zerotier) - Build your own layer-2 virtual switch in less than 300 lines of code
 - [opendns/Security_Ninjas_AppSec_Training](https://github.com/opendns/Security_Ninjas_AppSec_Training) - OpenDNS application security training program
@@ -1462,6 +1474,10 @@
 
 ## security 
 
+- [Probely/security_checklist](https://github.com/Probely/security_checklist) - Web Application Security Checklist
+- [krol3/container-security-checklist](https://github.com/krol3/container-security-checklist) - Checklist for container security - devsecops practices
+- [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
+- [0xRadi/OWASP-Web-Checklist](https://github.com/0xRadi/OWASP-Web-Checklist) - OWASP Web Application Security Testing Checklist
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [OWASP/wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
 - [MahdiMashrur/Awesome-Application-Security-Checklist](https://github.com/MahdiMashrur/Awesome-Application-Security-Checklist) - Checklist of the most important security countermeasures when designing, creating, testing  your web/mobile application
@@ -1481,6 +1497,7 @@
 
 ## security-tools 
 
+- [0xRadi/OWASP-Web-Checklist](https://github.com/0xRadi/OWASP-Web-Checklist) - OWASP Web Application Security Testing Checklist
 - [securego/gosec](https://github.com/securego/gosec) - Go security checker
 - [jassics/awesome-aws-security](https://github.com/jassics/awesome-aws-security) - Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security
 
@@ -1569,6 +1586,7 @@
 
 ## testing 
 
+- [0xRadi/OWASP-Web-Checklist](https://github.com/0xRadi/OWASP-Web-Checklist) - OWASP Web Application Security Testing Checklist
 - [jepsen-io/maelstrom](https://github.com/jepsen-io/maelstrom) - A workbench for writing toy implementations of distributed systems.
 - [testjavascript/nodejs-integration-tests-best-practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) - ✅  Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (March 2024)
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (July 2023)
@@ -1628,6 +1646,7 @@
 
 ## web 
 
+- [Probely/security_checklist](https://github.com/Probely/security_checklist) - Web Application Security Checklist
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - ⚡️ Research in Web Performance
