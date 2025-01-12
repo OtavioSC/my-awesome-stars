@@ -286,6 +286,14 @@
 
 ## Others 
 
+- [code-review-checklists/go-concurrency](https://github.com/code-review-checklists/go-concurrency) - Checklist for code reviews
+- [Probely/security_checklist](https://github.com/Probely/security_checklist) - Web Application Security Checklist
+- [CyberSecurityUP/Offensivesecurity-Checklists](https://github.com/CyberSecurityUP/Offensivesecurity-Checklists) - Checklists for Testing Security environment
+- [muellerberndt/android_app_security_checklist](https://github.com/muellerberndt/android_app_security_checklist) - Android App Security Checklist
+- [krol3/container-security-checklist](https://github.com/krol3/container-security-checklist) - Checklist for container security - devsecops practices
+- [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
+- [0xRadi/OWASP-Web-Checklist](https://github.com/0xRadi/OWASP-Web-Checklist) - OWASP Web Application Security Testing Checklist
+- [eltiffster/readingDocs](https://github.com/eltiffster/readingDocs) - Guide for reading and working with written technical documentation on the web.
 - [Simpsonpt/AppSecEzine](https://github.com/Simpsonpt/AppSecEzine) - AppSec Ezine Public Repository.
 - [security-prince/Resources-for-Application-Security](https://github.com/security-prince/Resources-for-Application-Security) - Some good resources for getting started with application security
 - [MahdiMashrur/Awesome-Application-Security-Checklist](https://github.com/MahdiMashrur/Awesome-Application-Security-Checklist) - Checklist of the most important security countermeasures when designing, creating, testing  your web/mobile application
