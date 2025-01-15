@@ -144,7 +144,6 @@
 ## Go 
 
 - [kevwan/tproxy](https://github.com/kevwan/tproxy) - A cli tool to proxy and analyze TCP connections.
-- [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [oklog/ulid](https://github.com/oklog/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Go
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes
@@ -300,6 +299,7 @@
 
 ## JavaScript 
 
+- [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [Neet-Nestor/Telegram-Media-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader) - A script allowing you to download images and videos from Telegram web even if the group restricts downloading.
 - [quavedev/code-challenge](https://github.com/quavedev/code-challenge) - 
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
