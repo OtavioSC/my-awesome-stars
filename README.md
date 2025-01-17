@@ -9,6 +9,7 @@
 - [Astro](#astro)
 - [Awk](#awk)
 - [Bicep](#bicep)
+- [BlitzBasic](#blitzbasic)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -68,6 +69,10 @@
 ## Bicep 
 
 - [aaronpowell/azure-remix-stack](https://github.com/aaronpowell/azure-remix-stack) - A remix stack template for running a remix app on Azure
+
+## BlitzBasic 
+
+- [1N3/IntruderPayloads](https://github.com/1N3/IntruderPayloads) - A collection of Burpsuite Intruder payloads, BurpBounty payloads, fuzz lists, malicious file uploads and web pentesting methodologies and checklists.
 
 ## C 
 
