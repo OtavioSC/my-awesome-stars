@@ -1379,6 +1379,7 @@
 
 ## others 
 
+- [ArqueologiaDigital/PatinhoFeio](https://github.com/ArqueologiaDigital/PatinhoFeio) - Repositório contendo documentação técnica sobre o Patinho Feio, um computador pioneiro brasileiro desenvolvido na Escola Politécnica da USP em 1971 e inaugurado em 1972.
 - [kevwan/tproxy](https://github.com/kevwan/tproxy) - A cli tool to proxy and analyze TCP connections.
 - [oklog/ulid](https://github.com/oklog/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Go
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
@@ -2006,6 +2007,7 @@
 
 ## vim 
 
+- [mcchrish/vim-no-color-collections](https://github.com/mcchrish/vim-no-color-collections) - Collection of Vim themes with barely any colors
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [emacs-evil/evil](https://github.com/emacs-evil/evil) - The extensible vi layer for Emacs.
