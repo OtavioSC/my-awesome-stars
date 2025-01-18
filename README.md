@@ -6,6 +6,7 @@
 ## Contents
 
 - [ASP](#asp)
+- [Assembly](#assembly)
 - [Astro](#astro)
 - [Awk](#awk)
 - [Bicep](#bicep)
@@ -57,6 +58,10 @@
 ## ASP 
 
 - [Binary-Hackers/42_Subjects](https://github.com/Binary-Hackers/42_Subjects) - All Subjects of 42 School
+
+## Assembly 
+
+- [ArqueologiaDigital/PatinhoFeio](https://github.com/ArqueologiaDigital/PatinhoFeio) - Repositório contendo documentação técnica sobre o Patinho Feio, um computador pioneiro brasileiro desenvolvido na Escola Politécnica da USP em 1971 e inaugurado em 1972.
 
 ## Astro 
 
@@ -399,6 +404,7 @@
 
 ## Others 
 
+- [mcchrish/vim-no-color-collections](https://github.com/mcchrish/vim-no-color-collections) - Collection of Vim themes with barely any colors
 - [code-review-checklists/go-concurrency](https://github.com/code-review-checklists/go-concurrency) - Checklist for code reviews
 - [Probely/security_checklist](https://github.com/Probely/security_checklist) - Web Application Security Checklist
 - [CyberSecurityUP/Offensivesecurity-Checklists](https://github.com/CyberSecurityUP/Offensivesecurity-Checklists) - Checklists for Testing Security environment
