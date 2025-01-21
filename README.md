@@ -457,6 +457,9 @@
 
 ## Others 
 
+- [guiaanonima/roadmap](https://github.com/guiaanonima/roadmap) - Roadmap para a Área de CyberSecurity
+- [boitatech/cyber-security-roadmap](https://github.com/boitatech/cyber-security-roadmap) - O repositório Cyber Security Roadmap é uma iniciativa para ajudar a comunidade de segurança da informação a se orientar sobre o que estudar.
+- [arthurspk/guiadecybersecurity](https://github.com/arthurspk/guiadecybersecurity) - Esse guia contém todas as informações necessárias para se introduzir na área de segurança da informação, dessa maneira, você encontrará, cursos, indicações de livros, roadmaps, playlists, certificaçõe
 - [c0rdis/security-champions-playbook](https://github.com/c0rdis/security-champions-playbook) - Security Champions Playbook v 2.1
 - [mcchrish/vim-no-color-collections](https://github.com/mcchrish/vim-no-color-collections) - Collection of Vim themes with barely any colors
 - [code-review-checklists/go-concurrency](https://github.com/code-review-checklists/go-concurrency) - Checklist for code reviews
