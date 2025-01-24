@@ -484,7 +484,6 @@
 - [cipher387/Advanced-search-operators-list](https://github.com/cipher387/Advanced-search-operators-list) - List of the links to the docs for different services, which explain using of advanced search operators
 - [HDVinnie/Torrent-Tracker-Platforms](https://github.com/HDVinnie/Torrent-Tracker-Platforms) - A Curated List Of Torrent Tracker Platforms/Codebases Written In Multiple Coding Languages
 - [carpedm20/awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
-- [pasqualerossi/42-School-Guide](https://github.com/pasqualerossi/42-School-Guide) - This guide shows what order you should do the 42 Projects in (From Easiest to Hardest)
 - [jotavare/42-resources](https://github.com/jotavare/42-resources) - My curated 42 school resource collection. The good, the bad and the ugly.
 - [veyselusta/programming-language-research](https://github.com/veyselusta/programming-language-research) - Research on theory of programming languages λ, compilers, interpreters, functional programming, formal methods, logic etc.
 - [ImplFerris/LearnRust](https://github.com/ImplFerris/LearnRust) - Rust Learning Resources
@@ -493,7 +492,6 @@
 - [PedroKetzer/roadmap-appsecbr](https://github.com/PedroKetzer/roadmap-appsecbr) - Junção de conteúdos, dicas e considerações da comunidade do Br de AppSec para divulgar a palavra do DevSecOps e orientar aspirantes que não se encaixam nem com Red e nem com Blue team
 - [mietek/total-fp](https://github.com/mietek/total-fp) - Total functional programming (ESFP) literature
 - [fpetras/42-subjects](https://github.com/fpetras/42-subjects) - English subjects of projects at 42
-- [marousta/42-C-Piscine-subjects](https://github.com/marousta/42-C-Piscine-subjects) - New 2019 subjects from C pool of 42 | Nouveaux sujets de 2019 de la piscine C de 42
 - [armankhondker/best-leetcode-resources](https://github.com/armankhondker/best-leetcode-resources) - This repository contains resources for technical coding interviews.
 - [amilajack/reading](https://github.com/amilajack/reading) - A list of computer-science readings I recommend
 - [wrongbyte/awesome-learning](https://github.com/wrongbyte/awesome-learning) - :sparkles: A curated list of resources on the science of learning anything
