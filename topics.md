@@ -565,6 +565,7 @@
 
 ## cybersecurity 
 
+- [boitatech/cyber-security-roadmap](https://github.com/boitatech/cyber-security-roadmap) - O repositório Cyber Security Roadmap é uma iniciativa para ajudar a comunidade de segurança da informação a se orientar sobre o que estudar.
 - [Anof-cyber/Application-Security](https://github.com/Anof-cyber/Application-Security) - Resources for Application Security including Web, API, Android, iOS and Thick Client
 - [jotavare/42-resources](https://github.com/jotavare/42-resources) - My curated 42 school resource collection. The good, the bad and the ugly.
 - [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
@@ -1482,6 +1483,8 @@
 
 ## others 
 
+- [guiaanonima/roadmap](https://github.com/guiaanonima/roadmap) - Roadmap para a Área de CyberSecurity
+- [arthurspk/guiadecybersecurity](https://github.com/arthurspk/guiadecybersecurity) - Esse guia contém todas as informações necessárias para se introduzir na área de segurança da informação, dessa maneira, você encontrará, cursos, indicações de livros, roadmaps, playlists, certificaçõe
 - [c0rdis/security-champions-playbook](https://github.com/c0rdis/security-champions-playbook) - Security Champions Playbook v 2.1
 - [hashicorp/memberlist](https://github.com/hashicorp/memberlist) - Golang package for gossip based membership and failure detection
 - [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
@@ -1534,7 +1537,6 @@
 - [PellelNitram/xournalpp_htr](https://github.com/PellelNitram/xournalpp_htr) - Developing handwritten text recognition for Xournal++
 - [HDVinnie/Torrent-Tracker-Platforms](https://github.com/HDVinnie/Torrent-Tracker-Platforms) - A Curated List Of Torrent Tracker Platforms/Codebases Written In Multiple Coding Languages
 - [OPSnet/Gazelle](https://github.com/OPSnet/Gazelle) - 
-- [pasqualerossi/42-School-Guide](https://github.com/pasqualerossi/42-School-Guide) - This guide shows what order you should do the 42 Projects in (From Easiest to Hardest)
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
 - [veyselusta/programming-language-research](https://github.com/veyselusta/programming-language-research) - Research on theory of programming languages λ, compilers, interpreters, functional programming, formal methods, logic etc.
 - [AlirezaSamar/Dragon-Book-Solutions](https://github.com/AlirezaSamar/Dragon-Book-Solutions) - Compilers Principles, Techniques, & Tools (a.k.a purple dragon book) second edition exercise answers.
@@ -1545,7 +1547,6 @@
 - [foostan/crkbd](https://github.com/foostan/crkbd) - Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.
 - [mietek/total-fp](https://github.com/mietek/total-fp) - Total functional programming (ESFP) literature
 - [fpetras/42-subjects](https://github.com/fpetras/42-subjects) - English subjects of projects at 42
-- [marousta/42-C-Piscine-subjects](https://github.com/marousta/42-C-Piscine-subjects) - New 2019 subjects from C pool of 42 | Nouveaux sujets de 2019 de la piscine C de 42
 - [Stremio/stremio-core](https://github.com/Stremio/stremio-core) - ⚛️ The Stremio Core: types, addon system, UI models, core logic
 - [fxn/vim-monochrome](https://github.com/fxn/vim-monochrome) - Monochrome color scheme for Vim
 - [ensine-se-ciencia-da-computacao/sicp-portugues](https://github.com/ensine-se-ciencia-da-computacao/sicp-portugues) - Versão HTML5/EPUB3 traduzida do Livro SICP
@@ -1944,6 +1945,7 @@
 
 ## security 
 
+- [boitatech/cyber-security-roadmap](https://github.com/boitatech/cyber-security-roadmap) - O repositório Cyber Security Roadmap é uma iniciativa para ajudar a comunidade de segurança da informação a se orientar sobre o que estudar.
 - [deepfence/SecretScanner](https://github.com/deepfence/SecretScanner) - :unlock: :unlock: Find secrets and passwords in container images and file systems :unlock: :unlock:
 - [zegl/kube-score](https://github.com/zegl/kube-score) - Kubernetes object analysis with recommendations for improved reliability and security. kube-score actively prevents downtime and bugs in your Kubernetes YAML and Charts. Static code analysis for Kuber
 - [apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and softwares
