@@ -1483,6 +1483,9 @@
 
 ## others 
 
+- [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
+- [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [guiaanonima/roadmap](https://github.com/guiaanonima/roadmap) - Roadmap para a Área de CyberSecurity
 - [arthurspk/guiadecybersecurity](https://github.com/arthurspk/guiadecybersecurity) - Esse guia contém todas as informações necessárias para se introduzir na área de segurança da informação, dessa maneira, você encontrará, cursos, indicações de livros, roadmaps, playlists, certificaçõe
 - [c0rdis/security-champions-playbook](https://github.com/c0rdis/security-champions-playbook) - Security Champions Playbook v 2.1
@@ -1546,7 +1549,6 @@
 - [PedroKetzer/roadmap-appsecbr](https://github.com/PedroKetzer/roadmap-appsecbr) - Junção de conteúdos, dicas e considerações da comunidade do Br de AppSec para divulgar a palavra do DevSecOps e orientar aspirantes que não se encaixam nem com Red e nem com Blue team
 - [foostan/crkbd](https://github.com/foostan/crkbd) - Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.
 - [mietek/total-fp](https://github.com/mietek/total-fp) - Total functional programming (ESFP) literature
-- [fpetras/42-subjects](https://github.com/fpetras/42-subjects) - English subjects of projects at 42
 - [Stremio/stremio-core](https://github.com/Stremio/stremio-core) - ⚛️ The Stremio Core: types, addon system, UI models, core logic
 - [fxn/vim-monochrome](https://github.com/fxn/vim-monochrome) - Monochrome color scheme for Vim
 - [ensine-se-ciencia-da-computacao/sicp-portugues](https://github.com/ensine-se-ciencia-da-computacao/sicp-portugues) - Versão HTML5/EPUB3 traduzida do Livro SICP
