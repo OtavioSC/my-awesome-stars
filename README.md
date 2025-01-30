@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [ASP](#asp)
 - [Assembly](#assembly)
 - [Astro](#astro)
 - [Awk](#awk)
@@ -54,10 +53,6 @@
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
-
-## ASP 
-
-- [Binary-Hackers/42_Subjects](https://github.com/Binary-Hackers/42_Subjects) - All Subjects of 42 School
 
 ## Assembly 
 
