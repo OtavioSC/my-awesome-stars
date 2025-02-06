@@ -180,7 +180,7 @@
 - [anfragment/zen](https://github.com/anfragment/zen) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal client.
-- [ktock/container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter
+- [container2wasm/container2wasm](https://github.com/container2wasm/container2wasm) - Container to WASM converter
 - [matryer/moq](https://github.com/matryer/moq) - Interface mocking tool for go generate
 - [free5gc/free5gc](https://github.com/free5gc/free5gc) - Open source 5G core network based on 3GPP R15
 - [andydunstall/piko](https://github.com/andydunstall/piko) - An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes)
@@ -327,7 +327,7 @@
 
 ## HTML 
 
-- [AlirezaSamar/Dragon-Book-Solutions](https://github.com/AlirezaSamar/Dragon-Book-Solutions) - Compilers Principles, Techniques, & Tools (a.k.a purple dragon book) second edition exercise answers.
+- [alirezasamar/Dragon-Book-Solutions](https://github.com/alirezasamar/Dragon-Book-Solutions) - Compilers Principles, Techniques, & Tools (a.k.a purple dragon book) second edition exercise answers.
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
 - [ensine-se-ciencia-da-computacao/sicp-portugues](https://github.com/ensine-se-ciencia-da-computacao/sicp-portugues) - Versão HTML5/EPUB3 traduzida do Livro SICP
 - [sarabander/sicp](https://github.com/sarabander/sicp) - HTML5/EPUB3 version of SICP
