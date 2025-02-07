@@ -93,6 +93,7 @@
 
 ## C++ 
 
+- [Z3Prover/z3](https://github.com/Z3Prover/z3) - The Z3 Theorem Prover
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [cmu-db/bustub](https://github.com/cmu-db/bustub) - The BusTub Relational Database Management System (Educational)
 - [lac-dcc/wyvern](https://github.com/lac-dcc/wyvern) - Automatic conversion of call by value into call by need in the LLVM IR.
