@@ -529,7 +529,6 @@
 - [shahedbd/awesome-project-management](https://github.com/shahedbd/awesome-project-management) - Awesome lists about Project Management interesting and useful topics.
 - [anabastos/awesome-pesquisa](https://github.com/anabastos/awesome-pesquisa) - Curated list of research content in portuguese
 - [kspalaiologos/C-Learning-Resources](https://github.com/kspalaiologos/C-Learning-Resources) - Resources for learning C that are the best in my opinion.
-- [free-educa/books](https://github.com/free-educa/books) - o armazém de livros
 - [jozefg/learn-tt](https://github.com/jozefg/learn-tt) - A collection of resources for learning type theory and type theory adjacent fields.
 - [RealToughCandy/project-ideas-for-web-developers](https://github.com/RealToughCandy/project-ideas-for-web-developers) - The go-to repo for fun, cool and unique web developer projects.
 - [dereknguyen269/programing-best-practices](https://github.com/dereknguyen269/programing-best-practices) - A curated list of awesome Programming Best Practices
@@ -558,7 +557,6 @@
 - [onlurking/awesome-infosec](https://github.com/onlurking/awesome-infosec) - A curated list of awesome infosec courses and training resources.
 - [xgrommx/awesome-functional-programming](https://github.com/xgrommx/awesome-functional-programming) - Yet another resource for collecting articles, videos etc. regarding functional programming
 - [aalhour/awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
-- [free-educa/free-livros](https://github.com/free-educa/free-livros) - Educação é um direito de todos
 - [stemmlerjs/software-design-and-architecture-roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) - 🧱 The software design and architecture roadmap for any developer
 - [Universidade-Livre/matematica](https://github.com/Universidade-Livre/matematica) - 🧮 Um caminho para a educação autodidata em Matemática!
 - [nathanlesage/academics-on-mastodon](https://github.com/nathanlesage/academics-on-mastodon) - A list of various lists consisting of academics on Mastodon
