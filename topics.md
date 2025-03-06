@@ -1487,6 +1487,9 @@
 
 ## others 
 
+- [OWASP/SecureCodingDojo](https://github.com/OWASP/SecureCodingDojo) - The Secure Coding Dojo is a platform for delivering secure coding knowledge.
+- [softwaresecured/secure-code-review-checklist](https://github.com/softwaresecured/secure-code-review-checklist) - A starter secure code review checklist
+- [ShiftLeftSecurity/tarpit-java](https://github.com/ShiftLeftSecurity/tarpit-java) - Tarpit - A Web application seeded with vulnerabilities, rootkits, backdoors & data leaks
 - [hedge-dev/XenonRecomp](https://github.com/hedge-dev/XenonRecomp) - A tool for recompiling Xbox 360 games to native executables.
 - [Z3Prover/z3](https://github.com/Z3Prover/z3) - The Z3 Theorem Prover
 - [ossu/math](https://github.com/ossu/math) - 🧮  Path to a free self-taught education in Mathematics!
