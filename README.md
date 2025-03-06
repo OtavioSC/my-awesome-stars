@@ -352,6 +352,7 @@
 
 ## Java 
 
+- [ShiftLeftSecurity/tarpit-java](https://github.com/ShiftLeftSecurity/tarpit-java) - Tarpit - A Web application seeded with vulnerabilities, rootkits, backdoors & data leaks
 - [raphaeldelio/kafka-idempotent-consumer-demo](https://github.com/raphaeldelio/kafka-idempotent-consumer-demo) - The purpose of this demo is to prove that an idempotent consumer can be implemented using Kafka and Spring Boot and the Transactional Outbox Pattern.
 - [Fernanda-Kipper/login-app-backend](https://github.com/Fernanda-Kipper/login-app-backend) - 
 - [WoMakersCode/challenges-algorithms](https://github.com/WoMakersCode/challenges-algorithms) - Repositório referente à desafios sobre algoritmos da womakerscode
@@ -456,6 +457,7 @@
 
 ## Others 
 
+- [softwaresecured/secure-code-review-checklist](https://github.com/softwaresecured/secure-code-review-checklist) - A starter secure code review checklist
 - [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - How to be low-level programmer
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [ossu/math](https://github.com/ossu/math) - 🧮  Path to a free self-taught education in Mathematics!
@@ -620,6 +622,7 @@
 
 ## PHP 
 
+- [OWASP/SecureCodingDojo](https://github.com/OWASP/SecureCodingDojo) - The Secure Coding Dojo is a platform for delivering secure coding knowledge.
 - [LeonardoE95/OSCP](https://github.com/LeonardoE95/OSCP) - Knowledge for OSCP
 - [paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec) - A curated list of resources for learning about application security
 - [HDInnovations/UNIT3D-Community-Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - Private Torrent Tracker Built With Laravel, Livewire and AlpineJS.
