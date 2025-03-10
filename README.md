@@ -625,7 +625,7 @@
 - [OWASP/SecureCodingDojo](https://github.com/OWASP/SecureCodingDojo) - The Secure Coding Dojo is a platform for delivering secure coding knowledge.
 - [LeonardoE95/OSCP](https://github.com/LeonardoE95/OSCP) - Knowledge for OSCP
 - [paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec) - A curated list of resources for learning about application security
-- [HDInnovations/UNIT3D-Community-Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - Private Torrent Tracker Built With Laravel, Livewire and AlpineJS.
+- [HDInnovations/UNIT3D](https://github.com/HDInnovations/UNIT3D) - UNIT3D is a private torrent tracker built with Laravel, Livewire and AlpineJS.
 - [OPSnet/Gazelle](https://github.com/OPSnet/Gazelle) - 
 - [napolux/1000ideas](https://github.com/napolux/1000ideas) - A github repository for 1000 free ideas
 
