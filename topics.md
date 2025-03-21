@@ -987,6 +987,7 @@
 
 ## hacking 
 
+- [digininja/DVWA](https://github.com/digininja/DVWA) - Damn Vulnerable Web Application (DVWA)
 - [OWASP/wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
 - [Anof-cyber/Application-Security](https://github.com/Anof-cyber/Application-Security) - Resources for Application Security including Web, API, Android, iOS and Thick Client
 - [infoslack/awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking) - A list of web application security
@@ -1487,6 +1488,7 @@
 
 ## others 
 
+- [seatedro/glimpse](https://github.com/seatedro/glimpse) - Copy code from your codebase to clipboard instantly for LLM context!
 - [OWASP/SecureCodingDojo](https://github.com/OWASP/SecureCodingDojo) - The Secure Coding Dojo is a platform for delivering secure coding knowledge.
 - [softwaresecured/secure-code-review-checklist](https://github.com/softwaresecured/secure-code-review-checklist) - A starter secure code review checklist
 - [ShiftLeftSecurity/tarpit-java](https://github.com/ShiftLeftSecurity/tarpit-java) - Tarpit - A Web application seeded with vulnerabilities, rootkits, backdoors & data leaks
@@ -1735,6 +1737,7 @@
 
 ## php 
 
+- [digininja/DVWA](https://github.com/digininja/DVWA) - Damn Vulnerable Web Application (DVWA)
 - [HDInnovations/UNIT3D](https://github.com/HDInnovations/UNIT3D) - UNIT3D is a private torrent tracker built with Laravel, Livewire and AlpineJS.
 - [evgenkarlson/ALL_SCHOOL_42](https://github.com/evgenkarlson/ALL_SCHOOL_42) - | SCHOOL_42_UPDATE 2020 | This repository contains ALL PROJECTS, TASKS AND SUBJECTS  OF THE MAIN PROGRAM OF LEARNING AT SCHOOL 42 ( Program | Course | Programing | Coding | School 42 | Ecole 42 | Scho
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
@@ -1952,6 +1955,7 @@
 
 ## security 
 
+- [digininja/DVWA](https://github.com/digininja/DVWA) - Damn Vulnerable Web Application (DVWA)
 - [boitatech/cyber-security-roadmap](https://github.com/boitatech/cyber-security-roadmap) - O repositório Cyber Security Roadmap é uma iniciativa para ajudar a comunidade de segurança da informação a se orientar sobre o que estudar.
 - [deepfence/SecretScanner](https://github.com/deepfence/SecretScanner) - :unlock: :unlock: Find secrets and passwords in container images and file systems :unlock: :unlock:
 - [zegl/kube-score](https://github.com/zegl/kube-score) - Kubernetes object analysis with recommendations for improved reliability and security. kube-score actively prevents downtime and bugs in your Kubernetes YAML and Charts. Static code analysis for Kuber
