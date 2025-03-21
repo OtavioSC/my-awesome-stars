@@ -623,6 +623,7 @@
 
 ## PHP 
 
+- [digininja/DVWA](https://github.com/digininja/DVWA) - Damn Vulnerable Web Application (DVWA)
 - [OWASP/SecureCodingDojo](https://github.com/OWASP/SecureCodingDojo) - The Secure Coding Dojo is a platform for delivering secure coding knowledge.
 - [LeonardoE95/OSCP](https://github.com/LeonardoE95/OSCP) - Knowledge for OSCP
 - [paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec) - A curated list of resources for learning about application security
@@ -676,6 +677,7 @@
 
 ## Rust 
 
+- [seatedro/glimpse](https://github.com/seatedro/glimpse) - Copy code from your codebase to clipboard instantly for LLM context!
 - [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
 - [iamgabrieloliveira/voty](https://github.com/iamgabrieloliveira/voty) - Voty it's a performant, robust, efficient voting application that uses CrabMQ.
 - [CrabMQ/rust-client](https://github.com/CrabMQ/rust-client) - Rust Client to interact with CrabMQ.
