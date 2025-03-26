@@ -190,7 +190,6 @@
 - [liamg/darktile](https://github.com/liamg/darktile) - :waning_crescent_moon: Darktile is a GPU rendered terminal emulator designed for tiling window managers.
 - [akiyosi/goneovim](https://github.com/akiyosi/goneovim) - A GUI frontend for neovim.
 - [simeji/jid](https://github.com/simeji/jid) - json incremental digger
-- [monero-project/urs](https://github.com/monero-project/urs) - Unique Ring Signatures to sign messages anonymously
 - [CoinCulture/evm-tools](https://github.com/CoinCulture/evm-tools) - Ethereum Virtual Machine tools and guide
 - [status-im/status-go](https://github.com/status-im/status-go) - The Status module that consumes go-ethereum
 - [qeesung/image2ascii](https://github.com/qeesung/image2ascii) - :foggy: Convert image to ASCII
