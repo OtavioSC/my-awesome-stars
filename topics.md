@@ -278,6 +278,7 @@
 
 ## awesome 
 
+- [mr-karan/awesome-investing](https://github.com/mr-karan/awesome-investing) - 💸💸 Curated list of investment & finance related resources
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and softwares
@@ -327,6 +328,7 @@
 
 ## awesome-list 
 
+- [mr-karan/awesome-investing](https://github.com/mr-karan/awesome-investing) - 💸💸 Curated list of investment & finance related resources
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [MahdiMashrur/Awesome-Application-Security-Checklist](https://github.com/MahdiMashrur/Awesome-Application-Security-Checklist) - Checklist of the most important security countermeasures when designing, creating, testing  your web/mobile application
@@ -774,6 +776,7 @@
 
 ## finance 
 
+- [mr-karan/awesome-investing](https://github.com/mr-karan/awesome-investing) - 💸💸 Curated list of investment & finance related resources
 - [eryc-cc/home-bills](https://github.com/eryc-cc/home-bills) - 🌋 [WIP] Minimalistic bill tracker ・ Keep track of your monthly spendings.
 
 ## firebase 
@@ -1730,7 +1733,7 @@
 - [CollabCodeTech/backend-challenges](https://github.com/CollabCodeTech/backend-challenges) - A public list of open-source challenges from jobs around the world
 - [FotonTech/blockchain-academy](https://github.com/FotonTech/blockchain-academy) - A complete route for you to become a master of blockchain development.
 - [fakenickels/fantom-kittens](https://github.com/fakenickels/fantom-kittens) - KITTEN BUSINESS IS SERIOUS BUSINESS
-- [our-server/animechan](https://github.com/our-server/animechan) - A REST API for anime quotes
+- [AnimechanOrg/animechan](https://github.com/AnimechanOrg/animechan) - A REST API for anime quotes
 - [trananhkma/fucking-awesome-python](https://github.com/trananhkma/fucking-awesome-python) - awesome-python with :octocat: :star: and :fork_and_knife:
 - [rasbt/python_reference](https://github.com/rasbt/python_reference) - Useful functions, tutorials, and other Python-related things
 - [zhiwehu/Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises) - 100+ Python challenging programming exercises
