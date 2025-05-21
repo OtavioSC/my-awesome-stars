@@ -815,7 +815,7 @@
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [fakenickels/fantom-kittens](https://github.com/fakenickels/fantom-kittens) - KITTEN BUSINESS IS SERIOUS BUSINESS
-- [our-server/animechan](https://github.com/our-server/animechan) - A REST API for anime quotes
+- [AnimechanOrg/animechan](https://github.com/AnimechanOrg/animechan) - A REST API for anime quotes
 - [helmetjs/helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
