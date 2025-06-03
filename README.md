@@ -35,6 +35,7 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mercury](#mercury)
+- [Modula-3](#modula-3)
 - [Nix](#nix)
 - [Nushell](#nushell)
 - [OCaml](#ocaml)
@@ -443,6 +444,10 @@
 ## Mercury 
 
 - [Mercury-Language/mercury](https://github.com/Mercury-Language/mercury) - The Mercury logic programming system.
+
+## Modula-3 
+
+- [d3lb3/security-code-review](https://github.com/d3lb3/security-code-review) - My personal collection of resources (mostly tools and training materials) for source code security audits.
 
 ## Nix 
 
