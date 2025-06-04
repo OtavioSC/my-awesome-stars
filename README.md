@@ -157,6 +157,15 @@
 
 ## Go 
 
+- [mvdan/gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt
+- [stripe/stripe-cli](https://github.com/stripe/stripe-cli) - A command-line tool for Stripe
+- [aws/copilot-cli](https://github.com/aws/copilot-cli) - The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner or Amazon ECS on AWS Fargate.
+- [arduino/arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
+- [dependabot/cli](https://github.com/dependabot/cli) - A tool for testing and debugging Dependabot update jobs.
+- [databricks/cli](https://github.com/databricks/cli) - Databricks CLI
+- [planetscale/cli](https://github.com/planetscale/cli) - The CLI for PlanetScale Database
+- [docker/cli](https://github.com/docker/cli) - The Docker CLI
+- [metafates/mangal](https://github.com/metafates/mangal) - 📖 The most advanced (yet simple) cli manga downloader in the entire universe! Lua scrapers, export formats, anilist integration, fancy TUI and more!
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [hashicorp/memberlist](https://github.com/hashicorp/memberlist) - Golang package for gossip based membership and failure detection
 - [odeke-em/drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
