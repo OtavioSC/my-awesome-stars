@@ -148,6 +148,7 @@
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [privacy](#privacy)
+- [productivity](#productivity)
 - [programming](#programming)
 - [project-management](#project-management)
 - [python](#python)
@@ -1645,7 +1646,6 @@
 - [michaelt/martin-lof](https://github.com/michaelt/martin-lof) - papers of Per Martin Löf
 - [williamdemeo/TypeFunc](https://github.com/williamdemeo/TypeFunc) - Resources for type theory, functional programming, etc.
 - [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) - Showcase your skills on your Github readme or resumé with ease ✨
-- [timsayshey/cringe-clock](https://github.com/timsayshey/cringe-clock) - In your face Desktop Pomodoro App for the Wildly Distractible
 - [efueyo/td.nvim](https://github.com/efueyo/td.nvim) - Tower defense game for Neovim
 - [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) - 
 - [toddmotto/public-apis](https://github.com/toddmotto/public-apis) - A collective list of free APIs
@@ -1827,6 +1827,13 @@
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
+
+## productivity 
+
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+- [timsayshey/cringe-clock](https://github.com/timsayshey/cringe-clock) - In your face Desktop Pomodoro App for the Wildly Distractible
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 
 ## programming 
 
