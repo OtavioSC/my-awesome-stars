@@ -97,6 +97,7 @@
 - [http](#http)
 - [https](#https)
 - [image-processing](#image-processing)
+- [information-gathering](#information-gathering)
 - [instagram](#instagram)
 - [ios](#ios)
 - [ipfs](#ipfs)
@@ -237,7 +238,7 @@
 - [Anof-cyber/Application-Security](https://github.com/Anof-cyber/Application-Security) - Resources for Application Security including Web, API, Android, iOS and Thick Client
 - [evgenkarlson/ALL_SCHOOL_42](https://github.com/evgenkarlson/ALL_SCHOOL_42) - | SCHOOL_42_UPDATE 2020 | This repository contains ALL PROJECTS, TASKS AND SUBJECTS  OF THE MAIN PROGRAM OF LEARNING AT SCHOOL 42 ( Program | Course | Programing | Coding | School 42 | Ecole 42 | Scho
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 
@@ -579,7 +580,7 @@
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [devhatt/pet-dex-frontend](https://github.com/devhatt/pet-dex-frontend) - 
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 🎮 The only Front-End Performance Checklist that runs faster than the others
 - [felipefialho/awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians) - 🇧🇷 A collection of amazing open source projects built by brazilian developers
 - [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤.
@@ -1132,7 +1133,7 @@
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [devhatt/pet-dex-frontend](https://github.com/devhatt/pet-dex-frontend) - 
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 🎮 The only Front-End Performance Checklist that runs faster than the others
 - [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤.
 - [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
@@ -1156,6 +1157,10 @@
 
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 
+## information-gathering 
+
+- [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - A collection of hacking tools, resources and references to practice ethical hacking.
+
 ## instagram 
 
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
@@ -1165,7 +1170,7 @@
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [evgenkarlson/ALL_SCHOOL_42](https://github.com/evgenkarlson/ALL_SCHOOL_42) - | SCHOOL_42_UPDATE 2020 | This repository contains ALL PROJECTS, TASKS AND SUBJECTS  OF THE MAIN PROGRAM OF LEARNING AT SCHOOL 42 ( Program | Course | Programing | Coding | School 42 | Ecole 42 | Scho
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 
 ## ipfs 
 
@@ -1917,7 +1922,7 @@
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, GitOps enabled, CloudNative feature management solution
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity
 - [react-brasil/empresas-que-usam-react-no-brasil](https://github.com/react-brasil/empresas-que-usam-react-no-brasil) - Repositório que mostra empresas e projetos que utilizam React no Brasil
@@ -1993,7 +1998,7 @@
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [aripiprazole/rinha-de-compiler](https://github.com/aripiprazole/rinha-de-compiler) - 🥖 | Rinha de compiladores (ou interpretadores kkkk
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
 - [barter-rs/barter-rs](https://github.com/barter-rs/barter-rs) - Open-source Rust framework for building event-driven live-trading & backtesting systems
 - [freenet/freenet-core](https://github.com/freenet/freenet-core) - Declare your digital independence
@@ -2232,7 +2237,7 @@
 
 ## ui 
 
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
 
 ## vim 
@@ -2275,7 +2280,7 @@
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [Probely/security_checklist](https://github.com/Probely/security_checklist) - Web Application Security Checklist
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - ⚡️ Research in Web Performance
 - [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
