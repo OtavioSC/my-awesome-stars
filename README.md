@@ -86,7 +86,7 @@
 - [rodsmade/Projets_42_SP](https://github.com/rodsmade/Projets_42_SP) - 🌵 Todos os projetos desenvolvidos na escola 42 São Paulo 💂 All projects developed at 42 school São Paulo
 - [Plankiton/CParaSeresHumanos](https://github.com/Plankiton/CParaSeresHumanos) - Livro para iniciantes na linguagem C
 - [endrazine/wcc](https://github.com/endrazine/wcc) - The Witchcraft Compiler Collection
-- [Robert-van-Engelen/tinylisp](https://github.com/Robert-van-Engelen/tinylisp) - Lisp in 99 lines of C and how to write one yourself. Includes 20 Lisp primitives, garbage collection and REPL. Includes tail-call optimized versions for speed and reduced memory use.
+- [Robert-van-Engelen/tinylisp](https://github.com/Robert-van-Engelen/tinylisp) - Lisp in 99 lines of C and how to write one yourself. Includes 21 Lisp primitives, garbage collection and REPL. Includes tail-call optimized versions for speed and reduced memory use.
 - [VictorTaelin/Interaction-Calculus](https://github.com/VictorTaelin/Interaction-Calculus) - A programming language and model of computation that matches the optimal λ-calculus reduction algorithm perfectly.
 
 ## C# # 
@@ -371,6 +371,7 @@
 
 ## JavaScript 
 
+- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [zanfranceschi/rinha-de-backend-2025](https://github.com/zanfranceschi/rinha-de-backend-2025) - Rinha de Backend - Terceira Edição
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and softwares
