@@ -1625,7 +1625,7 @@
 - [OPSnet/Gazelle](https://github.com/OPSnet/Gazelle) - 
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
 - [veyselusta/programming-language-research](https://github.com/veyselusta/programming-language-research) - Research on theory of programming languages λ, compilers, interpreters, functional programming, formal methods, logic etc.
-- [alisamar42/Dragon-Book-Solutions](https://github.com/alisamar42/Dragon-Book-Solutions) - Compilers Principles, Techniques, & Tools (a.k.a purple dragon book) second edition exercise answers.
+- [alirezasamar/Dragon-Book-Solutions](https://github.com/alirezasamar/Dragon-Book-Solutions) - Compilers Principles, Techniques, & Tools (a.k.a purple dragon book) second edition exercise answers.
 - [geohot/fromthetransistor](https://github.com/geohot/fromthetransistor) - From the Transistor to the Web Browser, a rough outline for a 12 week course
 - [iamgabrieloliveira/voty](https://github.com/iamgabrieloliveira/voty) - Voty it's a performant, robust, efficient voting application that uses CrabMQ.
 - [Cybr-Inc/appsec-engineer-roadmap](https://github.com/Cybr-Inc/appsec-engineer-roadmap) - Want to become an Application Security Engineer? Here's a roadmap to help you get there.
