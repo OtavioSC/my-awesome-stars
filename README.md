@@ -477,6 +477,7 @@
 
 ## Others 
 
+- [areabitcoin/Bitcoin-4-All](https://github.com/areabitcoin/Bitcoin-4-All) - Bitcoin 4 All is an open source Bitcoin course
 - [TheJambo/awesome-testing](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources
 - [devsecops/awesome-devsecops](https://github.com/devsecops/awesome-devsecops) - An authoritative list of awesome devsecops tools with the help from community experiments and contributions.
 - [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!
