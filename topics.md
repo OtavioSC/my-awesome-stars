@@ -32,6 +32,7 @@
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [clojure](#clojure)
+- [cms](#cms)
 - [code](#code)
 - [code-quality](#code-quality)
 - [code-review](#code-review)
@@ -176,6 +177,7 @@
 - [serverless](#serverless)
 - [shell](#shell)
 - [software](#software)
+- [solidity](#solidity)
 - [sql](#sql)
 - [sqlite](#sqlite)
 - [stable-diffusion](#stable-diffusion)
@@ -281,6 +283,7 @@
 
 ## awesome 
 
+- [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
 - [TheJambo/awesome-testing](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources
 - [mr-karan/awesome-investing](https://github.com/mr-karan/awesome-investing) - 💸💸 Curated list of investment & finance related resources
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
@@ -400,6 +403,7 @@
 
 ## backend 
 
+- [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [goldbergyoni/nodejs-testing-best-practices](https://github.com/goldbergyoni/nodejs-testing-best-practices) - Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (April 2025)
@@ -439,6 +443,7 @@
 
 ## c 
 
+- [jamesroutley/write-a-hash-table](https://github.com/jamesroutley/write-a-hash-table) - ✏️ Learn how to write a hash table in C
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
 - [rodsmade/Projets_42_SP](https://github.com/rodsmade/Projets_42_SP) - 🌵 Todos os projetos desenvolvidos na escola 42 São Paulo 💂 All projects developed at 42 school São Paulo
 - [Plankiton/CParaSeresHumanos](https://github.com/Plankiton/CParaSeresHumanos) - Livro para iniciantes na linguagem C
@@ -504,6 +509,12 @@
 - [razum2um/awesome-clojure](https://github.com/razum2um/awesome-clojure) - A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff
 - [imteekay/functional-programming-learning-path](https://github.com/imteekay/functional-programming-learning-path) - ✨ A Learning Path for Functional Programming
 
+## cms 
+
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
+- [thechangelog/changelog.com](https://github.com/thechangelog/changelog.com) - Changelog makes world-class developer pods. This is our open source platform.
+- [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+
 ## code 
 
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
@@ -539,6 +550,7 @@
 
 ## computer-science 
 
+- [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [amilajack/reading](https://github.com/amilajack/reading) - A list of computer-science readings I recommend
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
@@ -613,6 +625,7 @@
 
 ## data-structures 
 
+- [jamesroutley/write-a-hash-table](https://github.com/jamesroutley/write-a-hash-table) - ✏️ Learn how to write a hash table in C
 - [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms and Data Structures implemented in Go for beginners, following best practices.
 - [armankhondker/best-leetcode-resources](https://github.com/armankhondker/best-leetcode-resources) - Learn LeetCode and prepare for coding interviews with free resources.
 - [imteekay/algorithms](https://github.com/imteekay/algorithms) - ✨ Algorithms & Data Structures & Computer Science studies
@@ -677,6 +690,7 @@
 
 ## docker 
 
+- [sonm-io/core](https://github.com/sonm-io/core) - Decentralized Fog Computing Platform
 - [docker/cli](https://github.com/docker/cli) - The Docker CLI
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [deepfence/SecretScanner](https://github.com/deepfence/SecretScanner) - :unlock: :unlock: Find secrets and passwords in container images and file systems :unlock: :unlock:
@@ -774,6 +788,7 @@
 
 ## ethereum 
 
+- [sonm-io/core](https://github.com/sonm-io/core) - Decentralized Fog Computing Platform
 - [CoinCulture/evm-tools](https://github.com/CoinCulture/evm-tools) - Ethereum Virtual Machine tools and guide
 - [status-im/status-go](https://github.com/status-im/status-go) - The "backend" library for Status Apps
 - [hyperledger-archives/burrow](https://github.com/hyperledger-archives/burrow) - https://wiki.hyperledger.org/display/burrow
@@ -789,6 +804,7 @@
 
 ## finance 
 
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [mr-karan/awesome-investing](https://github.com/mr-karan/awesome-investing) - 💸💸 Curated list of investment & finance related resources
 - [eryc-cc/home-bills](https://github.com/eryc-cc/home-bills) - 🌋 [WIP] Minimalistic bill tracker ・ Keep track of your monthly spendings.
 
@@ -834,6 +850,7 @@
 
 ## game-engine 
 
+- [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
 - [OpenDiablo2/OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
 
 ## games 
@@ -951,6 +968,7 @@
 
 ## golang 
 
+- [sonm-io/core](https://github.com/sonm-io/core) - Decentralized Fog Computing Platform
 - [arduino/arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
 - [metafates/mangal](https://github.com/metafates/mangal) - 📖 The most advanced (yet simple) cli manga downloader in the entire universe! Lua scrapers, export formats, anilist integration, fancy TUI and more!
 - [odeke-em/drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
@@ -1056,6 +1074,8 @@
 
 ## hacktoberfest 
 
+- [agenda-tech-brasil/agenda-tech-brasil](https://github.com/agenda-tech-brasil/agenda-tech-brasil) - Lista de eventos tech que acontecem no Brasil
+- [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
@@ -1188,6 +1208,7 @@
 
 ## javascript 
 
+- [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [dop251/goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine in pure Go
@@ -1242,6 +1263,7 @@
 
 ## json 
 
+- [hashicorp/hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
 - [simeji/jid](https://github.com/simeji/jid) - json incremental digger
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
@@ -1817,6 +1839,7 @@
 
 ## postgresql 
 
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [thechangelog/changelog.com](https://github.com/thechangelog/changelog.com) - Changelog makes world-class developer pods. This is our open source platform.
@@ -1867,6 +1890,7 @@
 
 ## python 
 
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [decodingml/personalized-recommender-course](https://github.com/decodingml/personalized-recommender-course) - 👕 Open-source course on architecting, building and deploying a real-time personalized recommender for H&M fashion articles.
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [evgenkarlson/ALL_SCHOOL_42](https://github.com/evgenkarlson/ALL_SCHOOL_42) - | SCHOOL_42_UPDATE 2020 | This repository contains ALL PROJECTS, TASKS AND SUBJECTS  OF THE MAIN PROGRAM OF LEARNING AT SCHOOL 42 ( Program | Course | Programing | Coding | School 42 | Ecole 42 | Scho
@@ -1923,6 +1947,7 @@
 
 ## react 
 
+- [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
 - [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
@@ -1951,6 +1976,7 @@
 
 ## react-native 
 
+- [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
 - [react-brasil/empresas-que-usam-react-no-brasil](https://github.com/react-brasil/empresas-que-usam-react-no-brasil) - Repositório que mostra empresas e projetos que utilizam React no Brasil
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
@@ -1989,6 +2015,7 @@
 
 ## ruby 
 
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
@@ -2077,6 +2104,7 @@
 
 ## self-hosted 
 
+- [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [boramalper/magnetico](https://github.com/boramalper/magnetico) - Autonomous (self-hosted) BitTorrent DHT search engine suite.
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
@@ -2117,6 +2145,10 @@
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
+## solidity 
+
+- [sonm-io/core](https://github.com/sonm-io/core) - Decentralized Fog Computing Platform
+
 ## sql 
 
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -2151,6 +2183,7 @@
 
 ## tailwindcss 
 
+- [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
@@ -2217,6 +2250,7 @@
 
 ## typescript 
 
+- [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
