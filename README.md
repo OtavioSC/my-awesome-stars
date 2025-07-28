@@ -78,6 +78,7 @@
 
 ## C 
 
+- [alex-ilgayev/MCPSpy](https://github.com/alex-ilgayev/MCPSpy) - MCP Monitoring with eBPF
 - [appinha/42sp-piscine](https://github.com/appinha/42sp-piscine) - Code developed at 42's Piscine, a 26-day (straight) C bootcamp - from 18/nov/2019 to 13/dec/2019.
 - [suker/42-Piscine](https://github.com/suker/42-Piscine) - Day a day  of my period as pisciner in 42 Sillicon Valley & 19 Belgium campus.
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
@@ -157,6 +158,7 @@
 
 ## Go 
 
+- [atotto/clipboard](https://github.com/atotto/clipboard) - clipboard for golang
 - [sonm-io/core](https://github.com/sonm-io/core) - Decentralized Fog Computing Platform
 - [hashicorp/hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
 - [mvdan/gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt
