@@ -158,6 +158,8 @@
 
 ## Go 
 
+- [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang) - Write Model Context Protocol servers in few lines of go code. Docs at https://mcpgolang.com
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [opiasec/labs](https://github.com/opiasec/labs) - Labs is a platform to learn and improve Application Security skills by working with ephemerous and secure laboratories
 - [atotto/clipboard](https://github.com/atotto/clipboard) - clipboard for golang
 - [sonm-io/core](https://github.com/sonm-io/core) - Decentralized Fog Computing Platform
@@ -804,6 +806,8 @@
 
 ## TypeScript 
 
+- [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
+- [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official TypeScript SDK for Model Context Protocol servers and clients
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
