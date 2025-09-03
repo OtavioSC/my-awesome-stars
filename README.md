@@ -158,7 +158,7 @@
 
 ## Go 
 
-- [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang) - Write Model Context Protocol servers in few lines of go code. Docs at https://mcpgolang.com
+- [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang) - Write Model Context Protocol servers in few lines of go code. Docs at https://mcpgolang.com . Created by https://metoro.io
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [opiasec/labs](https://github.com/opiasec/labs) - Labs is a platform to learn and improve Application Security skills by working with ephemerous and secure laboratories
 - [atotto/clipboard](https://github.com/atotto/clipboard) - clipboard for golang
