@@ -78,6 +78,7 @@
 
 ## C 
 
+- [B-Con/crypto-algorithms](https://github.com/B-Con/crypto-algorithms) - Basic implementations of standard cryptography algorithms, like AES and SHA-1.
 - [alex-ilgayev/MCPSpy](https://github.com/alex-ilgayev/MCPSpy) - MCP Monitoring with eBPF
 - [appinha/42sp-piscine](https://github.com/appinha/42sp-piscine) - Code developed at 42's Piscine, a 26-day (straight) C bootcamp - from 18/nov/2019 to 13/dec/2019.
 - [suker/42-Piscine](https://github.com/suker/42-Piscine) - Day a day  of my period as pisciner in 42 Sillicon Valley & 19 Belgium campus.
@@ -492,6 +493,7 @@
 
 ## Others 
 
+- [pFarb/awesome-crypto-papers](https://github.com/pFarb/awesome-crypto-papers) - A curated list of cryptography papers, articles, tutorials and howtos.
 - [sunsecrn/Dorks-Vercel-e-Lovable](https://github.com/sunsecrn/Dorks-Vercel-e-Lovable) - 
 - [mgreiler/code-review-checklist](https://github.com/mgreiler/code-review-checklist) - This code review checklist helps you be a more effective and efficient code reviewer.
 - [joho/awesome-code-review](https://github.com/joho/awesome-code-review) - An "Awesome" list of code review resources - articles, papers, tools, etc
@@ -735,6 +737,7 @@
 
 ## Rust 
 
+- [ncitron/badcrypto](https://github.com/ncitron/badcrypto) - Learning Cryptography in Public
 - [luamfb/tempest-lcd](https://github.com/luamfb/tempest-lcd) - Play music from your LCD monitor with a radio
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [microsoft/beginners-series-rust](https://github.com/microsoft/beginners-series-rust) - Beginner's Series to Rust
