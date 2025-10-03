@@ -53,6 +53,7 @@
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
+- [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
 - [Yacc](#yacc)
 
@@ -354,7 +355,7 @@
 ## HTML 
 
 - [jiep/offensive-ai-compilation](https://github.com/jiep/offensive-ai-compilation) - A curated list of useful resources that cover Offensive AI.
-- [EdwinSamar/Dragon-Book-Solutions](https://github.com/EdwinSamar/Dragon-Book-Solutions) - Compilers Principles, Techniques, & Tools (a.k.a purple dragon book) second edition exercise answers.
+- [edwinsamar/Dragon-Book-Solutions](https://github.com/edwinsamar/Dragon-Book-Solutions) - Compilers Principles, Techniques, & Tools (a.k.a purple dragon book) second edition exercise answers.
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
 - [ensine-se-ciencia-da-computacao/sicp-portugues](https://github.com/ensine-se-ciencia-da-computacao/sicp-portugues) - Versão HTML5/EPUB3 traduzida do Livro SICP
 - [sarabander/sicp](https://github.com/sarabander/sicp) - HTML5/EPUB3 version of SICP
@@ -387,6 +388,8 @@
 
 ## JavaScript 
 
+- [dub-flow/secure-code-review-challenges](https://github.com/dub-flow/secure-code-review-challenges) - This repo contains the code for my secure code review challenges. I was told that people used this as the primary resources to pass FAANG AppSec interviews ;)
+- [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and 
 - [ryanmcdermott/code-review-tips](https://github.com/ryanmcdermott/code-review-tips) - :microscope: Common problems to look for in a code review
 - [varunshenoy/GraphGPT](https://github.com/varunshenoy/GraphGPT) - Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
@@ -419,7 +422,7 @@
 - [glaucia86/azure-sql-prisma-vue](https://github.com/glaucia86/azure-sql-prisma-vue) - A real case study how to apply Azure SQL with Prisma &  Vue
 - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
 - [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - ⚡️ Web Performance Research
-- [GShadowBroker/orkut-clone-client](https://github.com/GShadowBroker/orkut-clone-client) - A clone of the social media Orkut
+- [GledysonFerreira/orkut-clone-client](https://github.com/GledysonFerreira/orkut-clone-client) - A clone of the social media Orkut
 - [ArtToledo/manga-downloader-kindle](https://github.com/ArtToledo/manga-downloader-kindle) - 
 - [thelinmichael/spotify-web-api-node](https://github.com/thelinmichael/spotify-web-api-node) - A Node.js wrapper for Spotify's Web API.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
@@ -680,6 +683,7 @@
 
 ## Python 
 
+- [OWASP/DevSecOpsGuideline](https://github.com/OWASP/DevSecOpsGuideline) - The OWASP DevSecOps Guideline can help us to embedding security as a part of the development pipeline.
 - [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
 - [explodinggradients/ragas](https://github.com/explodinggradients/ragas) - Supercharge Your LLM Application Evaluations 🚀
@@ -891,6 +895,10 @@
 - [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [josethz00/neovim-like-vscode](https://github.com/josethz00/neovim-like-vscode) - This is a public repo, that contains some settings and plugins that allows you to use NeoVim like Visual Studio Code.
+
+## Visual Basic .NET 
+
+- [nccgroup/VCG](https://github.com/nccgroup/VCG) - VisualCodeGrepper - Code security scanning tool.
 
 ## Vue 
 
