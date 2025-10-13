@@ -389,6 +389,7 @@
 
 ## JavaScript 
 
+- [blenderskool/blaze](https://github.com/blenderskool/blaze) - ⚡ File sharing progressive web app built using WebTorrent and WebSockets
 - [dub-flow/secure-code-review-challenges](https://github.com/dub-flow/secure-code-review-challenges) - This repo contains the code for my secure code review challenges. I was told that people used this as the primary resources to pass FAANG AppSec interviews ;)
 - [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and 
 - [ryanmcdermott/code-review-tips](https://github.com/ryanmcdermott/code-review-tips) - :microscope: Common problems to look for in a code review
@@ -498,6 +499,7 @@
 
 ## Others 
 
+- [myugan/awesome-cicd-security](https://github.com/myugan/awesome-cicd-security) - :books: A curated list of awesome CI CD security resources
 - [pFarb/awesome-crypto-papers](https://github.com/pFarb/awesome-crypto-papers) - A curated list of cryptography papers, articles, tutorials and howtos.
 - [sunsecrn/Dorks-Vercel-e-Lovable](https://github.com/sunsecrn/Dorks-Vercel-e-Lovable) - 
 - [mgreiler/code-review-checklist](https://github.com/mgreiler/code-review-checklist) - This code review checklist helps you be a more effective and efficient code reviewer.
@@ -684,6 +686,7 @@
 
 ## Python 
 
+- [bellingcat/telegram-phone-number-checker](https://github.com/bellingcat/telegram-phone-number-checker) - Check if phone numbers are connected to Telegram accounts.
 - [OWASP/DevSecOpsGuideline](https://github.com/OWASP/DevSecOpsGuideline) - The OWASP DevSecOps Guideline can help us to embedding security as a part of the development pipeline.
 - [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
@@ -743,6 +746,7 @@
 
 ## Rust 
 
+- [lantos1618/open_human_ontology](https://github.com/lantos1618/open_human_ontology) - Open Human Ontology: A collaborative project to build a comprehensive, open, and structured human ontology for research and applications in AI and knowledge management.
 - [ncitron/badcrypto](https://github.com/ncitron/badcrypto) - Learning Cryptography in Public
 - [luamfb/tempest-lcd](https://github.com/luamfb/tempest-lcd) - Play music from your LCD monitor with a radio
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
