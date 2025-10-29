@@ -389,7 +389,7 @@
 ## JavaScript 
 
 - [blenderskool/blaze](https://github.com/blenderskool/blaze) - ⚡ File sharing progressive web app built using WebTorrent and WebSockets
-- [dub-flow/secure-code-review-challenges](https://github.com/dub-flow/secure-code-review-challenges) - This repo contains the code for my secure code review challenges. I was told that people used this as the primary resources to pass FAANG AppSec interviews ;)
+- [dub-flow/secure-code-review-challenges](https://github.com/dub-flow/secure-code-review-challenges) - This repo contains the code for my secure code review challenges. People used this as the primary resource to pass FAANG AppSec interviews 😉
 - [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and 
 - [ryanmcdermott/code-review-tips](https://github.com/ryanmcdermott/code-review-tips) - :microscope: Common problems to look for in a code review
 - [varunshenoy/GraphGPT](https://github.com/varunshenoy/GraphGPT) - Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️
