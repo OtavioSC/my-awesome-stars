@@ -1708,7 +1708,7 @@
 - [escuderoDP/crawler](https://github.com/escuderoDP/crawler) - Generic crawler to find all links from a input url.
 - [myugan/awesome-cicd-security](https://github.com/myugan/awesome-cicd-security) - :books: A curated list of awesome CI CD security resources
 - [petbccufscar/pet-colab](https://github.com/petbccufscar/pet-colab) - Este é o Repositório Colaborativo do PET-BCC, uma iniciativa para promover a colaboração entre alunos. Aqui, você encontrará uma variedade de recursos educacionais, com foco em listas de exercícios e 
-- [dub-flow/secure-code-review-challenges](https://github.com/dub-flow/secure-code-review-challenges) - This repo contains the code for my secure code review challenges. I was told that people used this as the primary resources to pass FAANG AppSec interviews ;)
+- [dub-flow/secure-code-review-challenges](https://github.com/dub-flow/secure-code-review-challenges) - This repo contains the code for my secure code review challenges. People used this as the primary resource to pass FAANG AppSec interviews 😉
 - [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and 
 - [nccgroup/VCG](https://github.com/nccgroup/VCG) - VisualCodeGrepper - Code security scanning tool.
 - [ncitron/badcrypto](https://github.com/ncitron/badcrypto) - Learning Cryptography in Public
