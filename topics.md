@@ -1872,7 +1872,6 @@
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for the X Recommendation Algorithm
 - [ed-roh/mern-social-media](https://github.com/ed-roh/mern-social-media) - Complete React MERN Full Stack Social Media App
 - [knrt10/kubernetes-basicLearning](https://github.com/knrt10/kubernetes-basicLearning) - Understand kubernetes step by step. A simple repo for beginners :fire:
-- [codecon-dev/awesome-communities-and-events-tech-brazil](https://github.com/codecon-dev/awesome-communities-and-events-tech-brazil) - Uma curadoria de comunidades e eventos tech incríveis para você participar.
 - [kolodny/exercises](https://github.com/kolodny/exercises) - Some basic javascript coding challenges and interview questions
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 - [HigherOrderCO/Kind](https://github.com/HigherOrderCO/Kind) - A modern proof language
