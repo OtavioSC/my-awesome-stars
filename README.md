@@ -887,7 +887,7 @@
 - [tobias-tengler/create-relay-app](https://github.com/tobias-tengler/create-relay-app) - Relay setup automation for CRA, Next.js and Vite
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
-- [nikivdev/research](https://github.com/nikivdev/research) - Research (code, docs, ..)
+- [nikivdev/research](https://github.com/nikivdev/research) - 
 - [flaviojmendes/trilhainfo](https://github.com/flaviojmendes/trilhainfo) - 
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
