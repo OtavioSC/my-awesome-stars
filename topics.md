@@ -2424,7 +2424,7 @@
 
 - [bellingcat/telegram-phone-number-checker](https://github.com/bellingcat/telegram-phone-number-checker) - Check if phone numbers are connected to Telegram accounts.
 - [Neet-Nestor/Telegram-Media-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader) - A script allowing you to download images and videos from Telegram web even if the group restricts downloading.
-- [ti-no-canada/imigracao-para-o-canada](https://github.com/ti-no-canada/imigracao-para-o-canada) - Repositorio geral do grupo no telegram TI no Canada
+- [ti-no-canada/ti-no-canada.github.io](https://github.com/ti-no-canada/ti-no-canada.github.io) - Repositorio geral do grupo no telegram TI no Canada
 
 ## terminal 
 
