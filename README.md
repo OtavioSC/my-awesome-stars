@@ -137,7 +137,7 @@
 ## Dockerfile 
 
 - [OWASP/wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
-- [ti-no-canada/ti-no-canada.github.io](https://github.com/ti-no-canada/ti-no-canada.github.io) - Repositorio geral do grupo no telegram TI no Canada
+- [ti-no-canada/ti-no-canada.github.io](https://github.com/ti-no-canada/ti-no-canada.github.io) - Desde 2017, o grupo TI no Canadá conecta brasileiros e entusiastas para trocar experiências sobre carreira, vida e trabalho no país.
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
 
 ## Elixir 
