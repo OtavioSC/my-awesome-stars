@@ -207,6 +207,7 @@
 - [terraform](#terraform)
 - [testing](#testing)
 - [text-to-speech](#text-to-speech)
+- [tui](#tui)
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ui](#ui)
@@ -2424,7 +2425,7 @@
 
 - [bellingcat/telegram-phone-number-checker](https://github.com/bellingcat/telegram-phone-number-checker) - Check if phone numbers are connected to Telegram accounts.
 - [Neet-Nestor/Telegram-Media-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader) - A script allowing you to download images and videos from Telegram web even if the group restricts downloading.
-- [ti-no-canada/ti-no-canada.github.io](https://github.com/ti-no-canada/ti-no-canada.github.io) - Repositorio geral do grupo no telegram TI no Canada
+- [ti-no-canada/ti-no-canada.github.io](https://github.com/ti-no-canada/ti-no-canada.github.io) - Desde 2017, o grupo TI no Canadá conecta brasileiros e entusiastas para trocar experiências sobre carreira, vida e trabalho no país.
 
 ## terminal 
 
@@ -2477,6 +2478,18 @@
 ## text-to-speech 
 
 - [litagin02/Style-Bert-VITS2](https://github.com/litagin02/Style-Bert-VITS2) - Style-Bert-VITS2: Bert-VITS2 with more controllable voice styles.
+
+## tui 
+
+- [metafates/mangal](https://github.com/metafates/mangal) - 📖 The most advanced (yet simple) cli manga downloader in the entire universe! Lua scrapers, export formats, anilist integration, fancy TUI and more!
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
+- [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
+- [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+- [mikaelmello/inquire](https://github.com/mikaelmello/inquire) - A Rust library for building interactive prompts
 
 ## twitter 
 
