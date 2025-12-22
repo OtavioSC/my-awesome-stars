@@ -235,6 +235,7 @@
 
 ## ai 
 
+- [cyberbotics/webots](https://github.com/cyberbotics/webots) - Webots Robot Simulator
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 - [alex-ilgayev/MCPSpy](https://github.com/alex-ilgayev/MCPSpy) - MCP Monitoring with eBPF
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
@@ -663,6 +664,7 @@
 
 ## computer-vision 
 
+- [cyberbotics/webots](https://github.com/cyberbotics/webots) - Webots Robot Simulator
 - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 
@@ -1725,6 +1727,7 @@
 
 ## open-source 
 
+- [cyberbotics/webots](https://github.com/cyberbotics/webots) - Webots Robot Simulator
 - [lantos1618/open_human_ontology](https://github.com/lantos1618/open_human_ontology) - Open Human Ontology: A collaborative project to build a comprehensive, open, and structured human ontology for research and applications in AI and knowledge management.
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [OpenDiablo2/OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
@@ -2243,6 +2246,7 @@
 
 ## robotics 
 
+- [cyberbotics/webots](https://github.com/cyberbotics/webots) - Webots Robot Simulator
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 
 ## ruby 
