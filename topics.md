@@ -1851,7 +1851,7 @@
 - [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️
 - [x-motemen/gore](https://github.com/x-motemen/gore) - Yet another Go REPL that works nicely. Featured with line editing, code completion, and more.
-- [ariga/atlas](https://github.com/ariga/atlas) - Manage your database schema as code
+- [ariga/atlas](https://github.com/ariga/atlas) - Declarative schema migrations with schema-as-code workflows
 - [google/pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
 - [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
