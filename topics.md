@@ -1951,7 +1951,7 @@
 - [openlm-research/open_llama](https://github.com/openlm-research/open_llama) - OpenLLaMA, a permissively licensed open source reproduction of Meta AI’s LLaMA 7B trained on the RedPajama dataset
 - [flakas/Brainfuck-Turing-machine](https://github.com/flakas/Brainfuck-Turing-machine) - A brainfuck turing machine
 - [reddit-archive/reddit1.0](https://github.com/reddit-archive/reddit1.0) - 
-- [HigherOrderCO/ICVM](https://github.com/HigherOrderCO/ICVM) - A programming language and model of computation that matches the optimal λ-calculus reduction algorithm perfectly.
+- [HigherOrderCO-archive/ICVM](https://github.com/HigherOrderCO-archive/ICVM) - A programming language and model of computation that matches the optimal λ-calculus reduction algorithm perfectly.
 - [cppbrasil/material-de-aprendizado](https://github.com/cppbrasil/material-de-aprendizado) - Coleção de materiais e links para aprendizado de C e C++, em português ou inglês.
 - [finntechnologies/sinnples](https://github.com/finntechnologies/sinnples) - Sinnples, the app for your home reform service indication
 - [shahedbd/awesome-project-management](https://github.com/shahedbd/awesome-project-management) - Awesome lists about Project Management interesting and useful topics.
@@ -1970,7 +1970,7 @@
 - [kolodny/exercises](https://github.com/kolodny/exercises) - Some basic javascript coding challenges and interview questions
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 - [HigherOrderCO/Kind](https://github.com/HigherOrderCO/Kind) - A modern proof language
-- [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
+- [HigherOrderCO/HVM2](https://github.com/HigherOrderCO/HVM2) - A massively parallel, optimal functional runtime in Rust
 - [engenheiracoelho/curriculo](https://github.com/engenheiracoelho/curriculo) - Esse repositório tem o objetivo de te ajudar a criar um bom currículo
 - [bolodissenoura/guia-da-primeira-vaga](https://github.com/bolodissenoura/guia-da-primeira-vaga) - 
 - [PhelipeLB/Crud-beer](https://github.com/PhelipeLB/Crud-beer) - App project to help taking order for a local beer store.
