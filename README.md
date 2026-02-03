@@ -139,7 +139,6 @@
 
 ## Dockerfile 
 
-- [OWASP/wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
 - [ti-no-canada/ti-no-canada.github.io](https://github.com/ti-no-canada/ti-no-canada.github.io) - Desde 2017, o grupo TI no Canadá conecta brasileiros e entusiastas para trocar experiências sobre carreira, vida e trabalho no país.
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
 
@@ -540,6 +539,7 @@
 - [eltiffster/readingDocs](https://github.com/eltiffster/readingDocs) - Guide for reading and working with written technical documentation on the web.
 - [Simpsonpt/AppSecEzine](https://github.com/Simpsonpt/AppSecEzine) - AppSec Ezine Public Repository.
 - [security-prince/Resources-for-Application-Security](https://github.com/security-prince/Resources-for-Application-Security) - Some good resources for getting started with application security
+- [OWASP/wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
 - [MahdiMashrur/Awesome-Application-Security-Checklist](https://github.com/MahdiMashrur/Awesome-Application-Security-Checklist) - Checklist of the most important security countermeasures when designing, creating, testing  your web/mobile application
 - [security-prince/Application-Security-Engineer-Interview-Questions](https://github.com/security-prince/Application-Security-Engineer-Interview-Questions) - Some of the questions which i was asked when i was giving interviews for Application/Product Security roles. I am sure this is not an exhaustive list but i felt these questions were important to be as
 - [Anof-cyber/Application-Security](https://github.com/Anof-cyber/Application-Security) - Resources for Application Security including Web, API, Android, iOS and Thick Client
