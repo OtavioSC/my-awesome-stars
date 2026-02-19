@@ -1269,7 +1269,7 @@
 - [react-brasil/empresas-que-usam-react-no-brasil](https://github.com/react-brasil/empresas-que-usam-react-no-brasil) - Repositório que mostra empresas e projetos que utilizam React no Brasil
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
-- [dereknguyen269/programing-best-practices-skill](https://github.com/dereknguyen269/programing-best-practices-skill) - Awesome Programming Best Practices for Beginners
+- [dereknguyen269/programing-best-practices](https://github.com/dereknguyen269/programing-best-practices) - Awesome Programming Best Practices for Beginners
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [polybar/polybar-scripts](https://github.com/polybar/polybar-scripts) - This is a community project. We write and collect scripts for polybar!
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
