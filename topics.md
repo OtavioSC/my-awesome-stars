@@ -1992,7 +1992,7 @@
 - [onlurking/the-software-architecture-chronicles](https://github.com/onlurking/the-software-architecture-chronicles) - The Software Architecture Chronicles from @hgraca in eBook form
 - [stemmlerjs/software-design-and-architecture-roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) - 🧱 The software design and architecture roadmap for any developer
 - [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
-- [rust-cli/rexpect](https://github.com/rust-cli/rexpect) - .github/workflows/ci.yml
+- [rust-cli/rexpect](https://github.com/rust-cli/rexpect) - Interact with unix processes/bash the same way as pexpect or Don libes expect does
 - [Universidade-Livre/matematica](https://github.com/Universidade-Livre/matematica) - 🧮 Um caminho para a educação autodidata em Matemática!
 - [rabbitmq/rabbitmq-tutorials](https://github.com/rabbitmq/rabbitmq-tutorials) - Tutorials for using RabbitMQ in various ways
 - [mxssl/sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide) - Site Reliability Engineer Interview Preparation Guide
