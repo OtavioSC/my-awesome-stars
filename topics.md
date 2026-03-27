@@ -1838,7 +1838,6 @@
 - [dependabot/cli](https://github.com/dependabot/cli) - A tool for testing and debugging Dependabot update jobs.
 - [databricks/cli](https://github.com/databricks/cli) - Databricks CLI
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
-- [AzatAI/cs_books](https://github.com/AzatAI/cs_books) - Computer science books Recommended by AzatAI. (Education ONLY)
 - [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!
 - [inpla/inpla](https://github.com/inpla/inpla) - Inpla: Interaction nets as a programming language (the current version)
 - [microsoft/beginners-series-rust](https://github.com/microsoft/beginners-series-rust) - Beginner's Series to Rust
