@@ -2059,7 +2059,7 @@
 
 ## parsing 
 
-- [zesterer/chumsky](https://github.com/zesterer/chumsky) - Write expressive, high-performance parsers with ease.
+- [zesterer/chumsky](https://github.com/zesterer/chumsky) - [Chumsky has moved to Codeberg!] Write expressive, high-performance parsers with ease.
 - [aappleby/matcheroni](https://github.com/aappleby/matcheroni) - A minimalist single-header library for building pattern-matchers, lexers, and parsers.
 
 ## penetration-testing 
@@ -2123,7 +2123,7 @@
 ## productivity 
 
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [timsayshey/cringe-clock](https://github.com/timsayshey/cringe-clock) - In your face Desktop Pomodoro App for the Wildly Distractible
+- [timsayshey/cringe-clock](https://github.com/timsayshey/cringe-clock) - Cringe Clock - In your face Desktop Pomodoro App for the Wildly Distractible
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 
