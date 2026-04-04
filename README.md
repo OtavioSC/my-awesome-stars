@@ -916,7 +916,7 @@
 ## Vue 
 
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
-- [timsayshey/cringe-clock](https://github.com/timsayshey/cringe-clock) - Cringe Clock - In your face Desktop Pomodoro App for the Wildly Distractible
+- [timsayshey/cringe-clock](https://github.com/timsayshey/cringe-clock) - Ticking ADHD Pomodoro Timer App for Windows, Mac, and Linux - Cringe Clock
 
 ## Yacc 
 
