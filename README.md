@@ -37,7 +37,6 @@
 - [Mercury](#mercury)
 - [Modula-3](#modula-3)
 - [Nix](#nix)
-- [Nunjucks](#nunjucks)
 - [Nushell](#nushell)
 - [OCaml](#ocaml)
 - [Others](#others)
@@ -399,6 +398,7 @@
 - [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and 
 - [ryanmcdermott/code-review-tips](https://github.com/ryanmcdermott/code-review-tips) - :microscope: Common problems to look for in a code review
 - [varunshenoy/GraphGPT](https://github.com/varunshenoy/GraphGPT) - Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️
+- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
 - [apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and softwares
 - [Neet-Nestor/Telegram-Media-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader) - A script allowing you to download images and videos from Telegram web even if the group restricts downloading.
 - [quavedev/code-challenge](https://github.com/quavedev/code-challenge) - 
@@ -488,10 +488,6 @@
 
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [nixypanda/dotfiles](https://github.com/nixypanda/dotfiles) - My dotfiles + system configuration for NixOS and mac
-
-## Nunjucks 
-
-- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
 
 ## Nushell 
 
