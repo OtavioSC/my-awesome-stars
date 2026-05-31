@@ -160,7 +160,7 @@
 
 ## Gleam 
 
-- [CrowdHailer/eyg-lang](https://github.com/CrowdHailer/eyg-lang) - Building better languages and tools; for some measure of better.
+- [CrowdHailer/eyg-lang](https://github.com/CrowdHailer/eyg-lang) - The safest scripting language for you, or your agent.
 
 ## Go 
 
