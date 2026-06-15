@@ -1824,6 +1824,8 @@
 
 ## others 
 
+- [BehiSecc/First-Bounty](https://github.com/BehiSecc/First-Bounty) - A complete, beginner-friendly bug bounty roadmap that takes you from zero experience to earning your first bounty.
+- [bittentech/Bug-Bounty-Beginner-Roadmap](https://github.com/bittentech/Bug-Bounty-Beginner-Roadmap) - This is a resource factory for anyone looking forward to starting bug hunting and would require guidance as a beginner.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [escuderoDP/crawler](https://github.com/escuderoDP/crawler) - Generic crawler to find all links from a input url.
 - [myugan/awesome-cicd-security](https://github.com/myugan/awesome-cicd-security) - :books: A curated list of awesome CI CD security resources
