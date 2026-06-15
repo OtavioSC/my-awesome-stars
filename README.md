@@ -501,6 +501,8 @@
 
 ## Others 
 
+- [BehiSecc/First-Bounty](https://github.com/BehiSecc/First-Bounty) - A complete, beginner-friendly bug bounty roadmap that takes you from zero experience to earning your first bounty.
+- [bittentech/Bug-Bounty-Beginner-Roadmap](https://github.com/bittentech/Bug-Bounty-Beginner-Roadmap) - This is a resource factory for anyone looking forward to starting bug hunting and would require guidance as a beginner.
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [myugan/awesome-cicd-security](https://github.com/myugan/awesome-cicd-security) - :books: A curated list of awesome CI CD security resources
 - [pFarb/awesome-crypto-papers](https://github.com/pFarb/awesome-crypto-papers) - A curated list of cryptography papers, articles, tutorials and howtos.
