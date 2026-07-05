@@ -1889,7 +1889,7 @@
 - [jetify-com/typeid](https://github.com/jetify-com/typeid) - Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs
 - [gruntwork-io/cloud-nuke](https://github.com/gruntwork-io/cloud-nuke) - A tool for cleaning up your cloud accounts by nuking (deleting) all resources within it
 - [paypal/junodb](https://github.com/paypal/junodb) - JunoDB is PayPal's home-grown secure, consistent and highly available key-value store providing low, single digit millisecond, latency at any scale.
-- [free5gc/free5gc](https://github.com/free5gc/free5gc) - Open source 5G core network based on 3GPP R15
+- [free5gc/free5gc](https://github.com/free5gc/free5gc) - Open source 5G core network based on 3GPP R17
 - [NicolasLopes7/tcp-chat](https://github.com/NicolasLopes7/tcp-chat) - tcp-chat
 - [appinha/42sp-piscine](https://github.com/appinha/42sp-piscine) - Code developed at 42's Piscine, a 26-day (straight) C bootcamp - from 18/nov/2019 to 13/dec/2019.
 - [suker/42-Piscine](https://github.com/suker/42-Piscine) - Day a day  of my period as pisciner in 42 Sillicon Valley & 19 Belgium campus.
