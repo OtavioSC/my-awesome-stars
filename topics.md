@@ -1998,7 +1998,6 @@
 - [HigherOrderCO-archive/ICVM](https://github.com/HigherOrderCO-archive/ICVM) - A programming language and model of computation that matches the optimal λ-calculus reduction algorithm perfectly.
 - [cppbrasil/material-de-aprendizado](https://github.com/cppbrasil/material-de-aprendizado) - Coleção de materiais e links para aprendizado de C e C++, em português ou inglês.
 - [finntechnologies/sinnples](https://github.com/finntechnologies/sinnples) - Sinnples, the app for your home reform service indication
-- [shahedbd/awesome-project-management](https://github.com/shahedbd/awesome-project-management) - Awesome lists about Project Management interesting and useful topics.
 - [anabastos/awesome-pesquisa](https://github.com/anabastos/awesome-pesquisa) - Curated list of research content in portuguese
 - [iczelia/C-Learning-Resources](https://github.com/iczelia/C-Learning-Resources) - Resources for learning C that are the best in my opinion.
 - [jozefg/learn-tt](https://github.com/jozefg/learn-tt) - A collection of resources for learning type theory and type theory adjacent fields.
@@ -2181,6 +2180,7 @@
 
 ## project-management 
 
+- [shahedbd/awesome-project-management](https://github.com/shahedbd/awesome-project-management) - Awesome lists about Project Management interesting and useful topics.
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 
 ## prompt-engineering 
