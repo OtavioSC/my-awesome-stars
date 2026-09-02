@@ -222,7 +222,7 @@
 - [qeesung/image2ascii](https://github.com/qeesung/image2ascii) - :foggy: Convert image to ASCII
 - [hyperledger-archives/burrow](https://github.com/hyperledger-archives/burrow) - https://wiki.hyperledger.org/display/burrow
 - [ksimka/go-is-not-good](https://github.com/ksimka/go-is-not-good) - A curated list of articles complaining that go (golang) isn't good enough
-- [Consensys/quorum](https://github.com/Consensys/quorum) - A permissioned implementation of Ethereum supporting data privacy
+- [Consensys-Incorporated/quorum](https://github.com/Consensys-Incorporated/quorum) - A permissioned implementation of Ethereum supporting data privacy
 - [tendermint/tendermint](https://github.com/tendermint/tendermint) - ⟁ Tendermint Core (BFT Consensus) in Go
 - [ipfs/kubo](https://github.com/ipfs/kubo) - IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
