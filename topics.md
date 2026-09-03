@@ -749,6 +749,7 @@
 - [aliasrobotics/cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), the framework for AI Security
 - [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
 - [boitatech/cyber-security-roadmap](https://github.com/boitatech/cyber-security-roadmap) - O repositório Cyber Security Roadmap é uma iniciativa para ajudar a comunidade de segurança da informação a se orientar sobre o que estudar.
+- [arthurspk/guiadecybersecurity](https://github.com/arthurspk/guiadecybersecurity) - Guia de Cyber Security: trilhas, cursos, livros, canais, ferramentas e comunidades para você entrar e evoluir na área.
 - [Anof-cyber/Application-Security](https://github.com/Anof-cyber/Application-Security) - Resources for Application Security including Web, API, Android, iOS and Thick Client
 - [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
 - [jassics/security-study-plan](https://github.com/jassics/security-study-plan) - Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...
@@ -879,7 +880,7 @@
 
 ## documentation 
 
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) - 📖 100 Go Mistakes and How to Avoid Them
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website
@@ -1041,7 +1042,7 @@
 
 ## git 
 
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
@@ -1633,7 +1634,7 @@
 
 ## markdown 
 
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
@@ -1772,7 +1773,7 @@
 
 ## nodejs 
 
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [nvm-windows/nvm](https://github.com/nvm-windows/nvm) - The Node.js version manager for Windows.
 - [elbywan/wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax. :candy:
 - [khaosdoctor/sound-recommender](https://github.com/khaosdoctor/sound-recommender) - Simple API to recommend songs
@@ -1805,7 +1806,7 @@
 
 - [cyberbotics/webots](https://github.com/cyberbotics/webots) - Webots Robot Simulator
 - [lantos1618/open_human_ontology](https://github.com/lantos1618/open_human_ontology) - Open Human Ontology: A collaborative project to build a comprehensive, open, and structured human ontology for research and applications in AI and knowledge management.
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [OpenDiablo2/OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
@@ -1885,7 +1886,6 @@
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [guiaanonima/roadmap](https://github.com/guiaanonima/roadmap) - Roadmap para a Área de CyberSecurity
-- [arthurspk/guiadecybersecurity](https://github.com/arthurspk/guiadecybersecurity) - Esse guia contém todas as informações necessárias para se introduzir na área de segurança da informação, dessa maneira, você encontrará, cursos, indicações de livros, roadmaps, playlists, certificaçõe
 - [c0rdis/security-champions-playbook](https://github.com/c0rdis/security-champions-playbook) - Security Champions Playbook v 2.1
 - [hashicorp/memberlist](https://github.com/hashicorp/memberlist) - Golang package for gossip based membership and failure detection
 - [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
