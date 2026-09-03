@@ -16,7 +16,6 @@
 - [CSS](#css)
 - [Clojure](#clojure)
 - [Common Lisp](#common-lisp)
-- [Coq](#coq)
 - [Cuda](#cuda)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
@@ -44,6 +43,7 @@
 - [PHP](#php)
 - [Python](#python)
 - [QML](#qml)
+- [Rocq Prover](#rocq-prover)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -127,10 +127,6 @@
 ## Common Lisp 
 
 - [reddit-archive/reddit1.0](https://github.com/reddit-archive/reddit1.0) - 
-
-## Coq 
-
-- [UniMath/Schools](https://github.com/UniMath/Schools) - 
 
 ## Cuda 
 
@@ -527,7 +523,7 @@
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [guiaanonima/roadmap](https://github.com/guiaanonima/roadmap) - Roadmap para a Área de CyberSecurity
 - [boitatech/cyber-security-roadmap](https://github.com/boitatech/cyber-security-roadmap) - O repositório Cyber Security Roadmap é uma iniciativa para ajudar a comunidade de segurança da informação a se orientar sobre o que estudar.
-- [arthurspk/guiadecybersecurity](https://github.com/arthurspk/guiadecybersecurity) - Esse guia contém todas as informações necessárias para se introduzir na área de segurança da informação, dessa maneira, você encontrará, cursos, indicações de livros, roadmaps, playlists, certificaçõe
+- [arthurspk/guiadecybersecurity](https://github.com/arthurspk/guiadecybersecurity) - Guia de Cyber Security: trilhas, cursos, livros, canais, ferramentas e comunidades para você entrar e evoluir na área.
 - [c0rdis/security-champions-playbook](https://github.com/c0rdis/security-champions-playbook) - Security Champions Playbook v 2.1
 - [mcchrish/vim-no-color-collections](https://github.com/mcchrish/vim-no-color-collections) - Collection of Vim themes with barely any colors
 - [code-review-checklists/go-concurrency](https://github.com/code-review-checklists/go-concurrency) - Checklist for code reviews
@@ -743,6 +739,10 @@
 
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 
+## Rocq Prover 
+
+- [UniMath/Schools](https://github.com/UniMath/Schools) - 
+
 ## Ruby 
 
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
@@ -916,7 +916,7 @@
 
 ## Vue 
 
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [timsayshey/cringe-clock](https://github.com/timsayshey/cringe-clock) - Ticking ADHD Pomodoro Timer App for Windows, Mac, and Linux - Cringe Clock
 
 ## Yacc 
