@@ -913,7 +913,6 @@
 ## electron 
 
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
@@ -1963,7 +1962,7 @@
 - [cherryramatisdev/regexer](https://github.com/cherryramatisdev/regexer) - Stop worrying about regex, start worrying about another language
 - [Stremio/stremio-shell](https://github.com/Stremio/stremio-shell) - 🐚 Qt5-based shell for Stremio; compile this to run the desktop app
 - [juliocesarfort/public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) - A list of public penetration test reports published by several consulting firms and academic security groups.
-- [matheusmorett2/dev-outsourcing-latam](https://github.com/matheusmorett2/dev-outsourcing-latam) - 
+- [madmorett/dev-outsourcing-latam](https://github.com/madmorett/dev-outsourcing-latam) - 
 - [michaelt/martin-lof](https://github.com/michaelt/martin-lof) - papers of Per Martin Löf
 - [williamdemeo/TypeFunc](https://github.com/williamdemeo/TypeFunc) - Resources for type theory, functional programming, etc.
 - [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) - Showcase your skills on your Github readme or resumé with ease ✨
