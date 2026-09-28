@@ -2075,7 +2075,7 @@
 - [CollabCodeTech/backend-challenges](https://github.com/CollabCodeTech/backend-challenges) - A public list of open-source challenges from jobs around the world
 - [FotonTech/blockchain-academy](https://github.com/FotonTech/blockchain-academy) - A complete route for you to become a master of blockchain development.
 - [fakenickels/fantom-kittens](https://github.com/fakenickels/fantom-kittens) - KITTEN BUSINESS IS SERIOUS BUSINESS
-- [AnimechanOrg/animechan](https://github.com/AnimechanOrg/animechan) - A REST API for anime quotes
+- [AnimechanOrg/animechan](https://github.com/AnimechanOrg/animechan) - Issue tracker for Animechan, the anime quotes API. Source code is private.
 - [trananhkma/fucking-awesome-python](https://github.com/trananhkma/fucking-awesome-python) - awesome-python with :octocat: :star: and :fork_and_knife:
 - [rasbt/python_reference](https://github.com/rasbt/python_reference) - Useful functions, tutorials, and other Python-related things
 - [zhiwehu/Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises) - 100+ Python challenging programming exercises
