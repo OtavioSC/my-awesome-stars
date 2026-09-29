@@ -218,7 +218,7 @@
 - [qeesung/image2ascii](https://github.com/qeesung/image2ascii) - :foggy: Convert image to ASCII
 - [hyperledger-archives/burrow](https://github.com/hyperledger-archives/burrow) - https://wiki.hyperledger.org/display/burrow
 - [ksimka/go-is-not-good](https://github.com/ksimka/go-is-not-good) - A curated list of articles complaining that go (golang) isn't good enough
-- [Consensys-Incorporated/quorum](https://github.com/Consensys-Incorporated/quorum) - A permissioned implementation of Ethereum supporting data privacy
+- [Consensys-inc-archive/quorum](https://github.com/Consensys-inc-archive/quorum) - A permissioned implementation of Ethereum supporting data privacy
 - [tendermint/tendermint](https://github.com/tendermint/tendermint) - ⟁ Tendermint Core (BFT Consensus) in Go
 - [ipfs/kubo](https://github.com/ipfs/kubo) - IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
@@ -316,7 +316,7 @@
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
