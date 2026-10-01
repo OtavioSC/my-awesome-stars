@@ -687,7 +687,7 @@
 - [bellingcat/telegram-phone-number-checker](https://github.com/bellingcat/telegram-phone-number-checker) - Check if phone numbers are connected to Telegram accounts.
 - [OWASP/DevSecOpsGuideline](https://github.com/OWASP/DevSecOpsGuideline) - The OWASP DevSecOps Guideline can help us to embedding security as a part of the development pipeline.
 - [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
-- [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
+- [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal. Now with hsql, your agent's favorite sql client.
 - [vibrantlabsai/ragas](https://github.com/vibrantlabsai/ragas) - Supercharge Your LLM Application Evaluations 🚀
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [aliasrobotics/cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), the framework for AI Security
