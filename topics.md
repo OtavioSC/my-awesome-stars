@@ -1859,6 +1859,9 @@
 
 ## others 
 
+- [Vyntra-Research/Proteus](https://github.com/Vyntra-Research/Proteus) - Proteus is a plugin for Claude Code, Codex and Opencode, plus a local runtime, for structured, continuous vulnerability research.
+- [rhurlbut/DEFCON34-AppSecVillage](https://github.com/rhurlbut/DEFCON34-AppSecVillage) - Workshop materials for "Introduction to AI-Enhanced Threat Modeling" at DEFCON 34 / AppSecVillage.
+- [CommitPushCompromise/defcon34-secretstomp-workshop](https://github.com/CommitPushCompromise/defcon34-secretstomp-workshop) - Vulnerable workflows used for DEF CON 34 RTV workshop
 - [BehiSecc/First-Bounty](https://github.com/BehiSecc/First-Bounty) - A complete, beginner-friendly bug bounty roadmap that takes you from zero experience to earning your first bounty.
 - [bittentech/Bug-Bounty-Beginner-Roadmap](https://github.com/bittentech/Bug-Bounty-Beginner-Roadmap) - This is a resource factory for anyone looking forward to starting bug hunting and would require guidance as a beginner.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
