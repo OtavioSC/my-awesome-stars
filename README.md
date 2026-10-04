@@ -501,6 +501,7 @@
 
 ## Others 
 
+- [rhurlbut/DEFCON34-AppSecVillage](https://github.com/rhurlbut/DEFCON34-AppSecVillage) - Workshop materials for "Introduction to AI-Enhanced Threat Modeling" at DEFCON 34 / AppSecVillage.
 - [BehiSecc/First-Bounty](https://github.com/BehiSecc/First-Bounty) - A complete, beginner-friendly bug bounty roadmap that takes you from zero experience to earning your first bounty.
 - [bittentech/Bug-Bounty-Beginner-Roadmap](https://github.com/bittentech/Bug-Bounty-Beginner-Roadmap) - This is a resource factory for anyone looking forward to starting bug hunting and would require guidance as a beginner.
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
@@ -820,6 +821,7 @@
 
 ## Shell 
 
+- [CommitPushCompromise/defcon34-secretstomp-workshop](https://github.com/CommitPushCompromise/defcon34-secretstomp-workshop) - Vulnerable workflows used for DEF CON 34 RTV workshop
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [polybar/polybar-scripts](https://github.com/polybar/polybar-scripts) - This is a community project. We write and collect scripts for polybar!
@@ -841,6 +843,7 @@
 
 ## TypeScript 
 
+- [Vyntra-Research/Proteus](https://github.com/Vyntra-Research/Proteus) - Proteus is a plugin for Claude Code, Codex and Opencode, plus a local runtime, for structured, continuous vulnerability research.
 - [privatenumber/tasuku](https://github.com/privatenumber/tasuku) - ✅ タスク — The minimal task visualizer for Node.js
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy conta
