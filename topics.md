@@ -535,7 +535,7 @@
 ## bugbounty 
 
 - [1N3/IntruderPayloads](https://github.com/1N3/IntruderPayloads) - A collection of Burpsuite Intruder payloads, BurpBounty payloads, fuzz lists, malicious file uploads and web pentesting methodologies and checklists.
-- [0xRadi/OWASP-Web-Checklist](https://github.com/0xRadi/OWASP-Web-Checklist) - OWASP Web Application Security Testing Checklist
+- [ahmed313x/OWASP-Web-Checklist](https://github.com/ahmed313x/OWASP-Web-Checklist) - OWASP Web Application Security Testing Checklist
 - [OWASP/wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
 - [Anof-cyber/Application-Security](https://github.com/Anof-cyber/Application-Security) - Resources for Application Security including Web, API, Android, iOS and Thick Client
 
@@ -2410,7 +2410,7 @@
 - [Probely/security_checklist](https://github.com/Probely/security_checklist) - Web Application Security Checklist
 - [krol3/container-security-checklist](https://github.com/krol3/container-security-checklist) - Checklist for container security - devsecops practices
 - [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
-- [0xRadi/OWASP-Web-Checklist](https://github.com/0xRadi/OWASP-Web-Checklist) - OWASP Web Application Security Testing Checklist
+- [ahmed313x/OWASP-Web-Checklist](https://github.com/ahmed313x/OWASP-Web-Checklist) - OWASP Web Application Security Testing Checklist
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [OWASP/wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
 - [MahdiMashrur/Awesome-Application-Security-Checklist](https://github.com/MahdiMashrur/Awesome-Application-Security-Checklist) - Checklist of the most important security countermeasures when designing, creating, testing  your web/mobile application
@@ -2433,7 +2433,7 @@
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [deepfence/SecretScanner](https://github.com/deepfence/SecretScanner) - :unlock: :unlock: Find secrets and passwords in container images and file systems :unlock: :unlock:
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
-- [0xRadi/OWASP-Web-Checklist](https://github.com/0xRadi/OWASP-Web-Checklist) - OWASP Web Application Security Testing Checklist
+- [ahmed313x/OWASP-Web-Checklist](https://github.com/ahmed313x/OWASP-Web-Checklist) - OWASP Web Application Security Testing Checklist
 - [securego/gosec](https://github.com/securego/gosec) - Go security checker
 - [jassics/awesome-aws-security](https://github.com/jassics/awesome-aws-security) - Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security
 
@@ -2582,7 +2582,7 @@
 - [TheJambo/awesome-testing](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources
 - [matryer/moq](https://github.com/matryer/moq) - Interface mocking tool for go generate
 - [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
-- [0xRadi/OWASP-Web-Checklist](https://github.com/0xRadi/OWASP-Web-Checklist) - OWASP Web Application Security Testing Checklist
+- [ahmed313x/OWASP-Web-Checklist](https://github.com/ahmed313x/OWASP-Web-Checklist) - OWASP Web Application Security Testing Checklist
 - [jepsen-io/maelstrom](https://github.com/jepsen-io/maelstrom) - A workbench for writing toy implementations of distributed systems.
 - [goldbergyoni/nodejs-testing-best-practices](https://github.com/goldbergyoni/nodejs-testing-best-practices) - Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (April 2025)
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2025)
