@@ -533,7 +533,7 @@
 - [muellerberndt/android_app_security_checklist](https://github.com/muellerberndt/android_app_security_checklist) - Android App Security Checklist
 - [krol3/container-security-checklist](https://github.com/krol3/container-security-checklist) - Checklist for container security - devsecops practices
 - [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
-- [0xRadi/OWASP-Web-Checklist](https://github.com/0xRadi/OWASP-Web-Checklist) - OWASP Web Application Security Testing Checklist
+- [ahmed313x/OWASP-Web-Checklist](https://github.com/ahmed313x/OWASP-Web-Checklist) - OWASP Web Application Security Testing Checklist
 - [eltiffster/readingDocs](https://github.com/eltiffster/readingDocs) - Guide for reading and working with written technical documentation on the web.
 - [Simpsonpt/AppSecEzine](https://github.com/Simpsonpt/AppSecEzine) - AppSec Ezine Public Repository.
 - [security-prince/Resources-for-Application-Security](https://github.com/security-prince/Resources-for-Application-Security) - Some good resources for getting started with application security
