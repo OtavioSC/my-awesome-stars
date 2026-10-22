@@ -845,6 +845,7 @@
 - [Vyntra-Research/Proteus](https://github.com/Vyntra-Research/Proteus) - Proteus is a plugin for Claude Code, Codex and Opencode, plus a local runtime, for structured, continuous vulnerability research.
 - [privatenumber/tasuku](https://github.com/privatenumber/tasuku) - ✅ タスク — The minimal task visualizer for Node.js
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy conta
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 - [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official TypeScript SDK for Model Context Protocol servers and clients
@@ -918,7 +919,6 @@
 
 ## Vue 
 
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [timsayshey/cringe-clock](https://github.com/timsayshey/cringe-clock) - Ticking ADHD Pomodoro Timer App for Windows, Mac, and Linux - Cringe Clock
 
 ## Yacc 
