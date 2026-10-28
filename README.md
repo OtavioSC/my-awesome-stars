@@ -515,7 +515,6 @@
 - [devsecops/awesome-devsecops](https://github.com/devsecops/awesome-devsecops) - An authoritative list of awesome devsecops tools with the help from community experiments and contributions.
 - [mr-karan/awesome-investing](https://github.com/mr-karan/awesome-investing) - 💸💸 Curated list of investment & finance related resources
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
-- [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
 - [softwaresecured/secure-code-review-checklist](https://github.com/softwaresecured/secure-code-review-checklist) - A starter secure code review checklist
 - [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - How to be low-level programmer
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
@@ -698,6 +697,7 @@
 - [agenda-tech-brasil/agenda-tech-brasil](https://github.com/agenda-tech-brasil/agenda-tech-brasil) - Lista de eventos tech que acontecem no Brasil
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
 - [areabitcoin/Bitcoin-4-All](https://github.com/areabitcoin/Bitcoin-4-All) - Bitcoin 4 All is an open source Bitcoin course
+- [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated prompts, frameworks and papers for LLMs and agents, with an engineering bias. Prompt engineering, context engineering, agent harnesses, red teaming.
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [litagin02/Style-Bert-VITS2](https://github.com/litagin02/Style-Bert-VITS2) - Style-Bert-VITS2: Bert-VITS2 with more controllable voice styles.
 - [PellelNitram/xournalpp_htr](https://github.com/PellelNitram/xournalpp_htr) - Developing handwritten text recognition for Xournal++
