@@ -1748,6 +1748,7 @@
 - [rest-nvim/rest.nvim](https://github.com/rest-nvim/rest.nvim) - A very fast, powerful, extensible and asynchronous Neovim HTTP client written in Lua.
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
+- [craftzdog/dotfiles](https://github.com/craftzdog/dotfiles) - My personal dotfiles
 - [josethoz/neovim-like-vscode](https://github.com/josethoz/neovim-like-vscode) - This is a public repo, that contains some settings and plugins that allows you to use NeoVim like Visual Studio Code.
 
 ## neovim-colorscheme 
@@ -2065,7 +2066,6 @@
 - [patrickloeber/pytorch-chatbot](https://github.com/patrickloeber/pytorch-chatbot) - Simple chatbot implementation with PyTorch.
 - [nixypanda/dotfiles](https://github.com/nixypanda/dotfiles) - My dotfiles + system configuration for NixOS and mac
 - [tobias-tengler/create-relay-app](https://github.com/tobias-tengler/create-relay-app) - Relay setup automation for CRA, Next.js and Vite
-- [craftzdog/dotfiles](https://github.com/craftzdog/dotfiles) - My personal dotfiles
 - [devspace/awesome-github-templates](https://github.com/devspace/awesome-github-templates) - :octocat: Curated list of GitHub Issues and Pull Requests templates
 - [krispo/awesome-haskell](https://github.com/krispo/awesome-haskell) - A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
 - [lucasviola/awesome-functional-programming](https://github.com/lucasviola/awesome-functional-programming) - :alien: A curated list of functional programming resources such as blog posts, communities, discussion topics, wikis and more.
