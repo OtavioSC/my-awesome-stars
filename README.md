@@ -571,7 +571,7 @@
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [tk-notes/awesome-personal-websites](https://github.com/tk-notes/awesome-personal-websites) - It's my attempt to store all personal website I find interesting
-- [linsa-io/books](https://github.com/linsa-io/books) - Awesome Books
+- [gendotnew/books](https://github.com/gendotnew/books) - Awesome Books
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [forjadev/.github](https://github.com/forjadev/.github) - Forja description, listing projects, its crew and more
 - [durnosmih/build-your-own-x-in-rust](https://github.com/durnosmih/build-your-own-x-in-rust) - 
