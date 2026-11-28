@@ -822,7 +822,7 @@
 
 - [CommitPushCompromise/defcon34-secretstomp-workshop](https://github.com/CommitPushCompromise/defcon34-secretstomp-workshop) - Vulnerable workflows used for DEF CON 34 RTV workshop
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,600+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [polybar/polybar-scripts](https://github.com/polybar/polybar-scripts) - This is a community project. We write and collect scripts for polybar!
 - [acxz/pokeshell](https://github.com/acxz/pokeshell) - A featureful shell program to show pokemon sprites in the terminal.
 - [parazeeknova/pistachio-V2-dotfiles](https://github.com/parazeeknova/pistachio-V2-dotfiles) - Updated Dotfiles for my previous rice but with new theme structure according to the new Archcraft Update :)
